@@ -1,0 +1,109 @@
+area,area_title,rank,model,first_run_accuracy,ensemble_accuracy,n_questions
+MS-PS1,Matter and Its Interactions,1,OSS 120b,0.989,1.0,87
+MS-PS1,Matter and Its Interactions,2,OSS 20b,0.943,0.989,87
+MS-PS1,Matter and Its Interactions,3,Gemma 4 31b,0.966,0.977,87
+MS-PS1,Matter and Its Interactions,4,Nemotron 3 Nano 30ba3,0.954,0.977,87
+MS-PS1,Matter and Its Interactions,5,Mistral Small 3.1,0.874,0.943,87
+MS-PS1,Matter and Its Interactions,6,Llama 3.3 70b,0.862,0.897,87
+MS-PS1,Matter and Its Interactions,7,Gemma 3 27b,0.828,0.874,87
+MS-PS1,Matter and Its Interactions,8,Granite 3.3 Instruct,0.701,0.77,87
+MS-PS1,Matter and Its Interactions,9,Llama 3.1 8b,0.667,0.724,87
+MS-PS2,Motion and Stability: Forces and Interactions,1,Gemma 4 31b,0.978,1.0,91
+MS-PS2,Motion and Stability: Forces and Interactions,2,Nemotron 3 Nano 30ba3,0.923,0.978,91
+MS-PS2,Motion and Stability: Forces and Interactions,3,OSS 120b,0.978,0.967,91
+MS-PS2,Motion and Stability: Forces and Interactions,4,OSS 20b,0.901,0.945,91
+MS-PS2,Motion and Stability: Forces and Interactions,5,Mistral Small 3.1,0.868,0.923,91
+MS-PS2,Motion and Stability: Forces and Interactions,6,Llama 3.3 70b,0.89,0.912,91
+MS-PS2,Motion and Stability: Forces and Interactions,7,Gemma 3 27b,0.912,0.901,91
+MS-PS2,Motion and Stability: Forces and Interactions,8,Granite 3.3 Instruct,0.736,0.802,91
+MS-PS2,Motion and Stability: Forces and Interactions,9,Llama 3.1 8b,0.714,0.802,91
+MS-PS3,Energy,1,Gemma 4 31b,0.988,1.0,84
+MS-PS3,Energy,2,OSS 120b,0.988,1.0,84
+MS-PS3,Energy,3,Nemotron 3 Nano 30ba3,0.964,1.0,84
+MS-PS3,Energy,4,OSS 20b,0.976,0.988,84
+MS-PS3,Energy,5,Gemma 3 27b,0.952,0.988,84
+MS-PS3,Energy,6,Mistral Small 3.1,0.952,0.929,84
+MS-PS3,Energy,7,Llama 3.3 70b,0.893,0.917,84
+MS-PS3,Energy,8,Granite 3.3 Instruct,0.75,0.833,84
+MS-PS3,Energy,9,Llama 3.1 8b,0.738,0.821,84
+MS-PS4,Waves and Their Applications in Technologies for Information Transfer,1,Nemotron 3 Nano 30ba3,0.989,1.0,88
+MS-PS4,Waves and Their Applications in Technologies for Information Transfer,2,OSS 120b,0.989,1.0,88
+MS-PS4,Waves and Their Applications in Technologies for Information Transfer,3,Gemma 4 31b,0.989,0.989,88
+MS-PS4,Waves and Their Applications in Technologies for Information Transfer,4,Gemma 3 27b,0.932,0.977,88
+MS-PS4,Waves and Their Applications in Technologies for Information Transfer,5,OSS 20b,0.932,0.966,88
+MS-PS4,Waves and Their Applications in Technologies for Information Transfer,6,Llama 3.3 70b,0.966,0.955,88
+MS-PS4,Waves and Their Applications in Technologies for Information Transfer,7,Mistral Small 3.1,0.886,0.932,88
+MS-PS4,Waves and Their Applications in Technologies for Information Transfer,8,Granite 3.3 Instruct,0.795,0.909,88
+MS-PS4,Waves and Their Applications in Technologies for Information Transfer,9,Llama 3.1 8b,0.784,0.818,88
+MS-LS1,From Molecules to Organisms: Structures and Processes,1,OSS 120b,0.989,0.989,89
+MS-LS1,From Molecules to Organisms: Structures and Processes,2,Gemma 3 27b,0.955,0.989,89
+MS-LS1,From Molecules to Organisms: Structures and Processes,3,Nemotron 3 Nano 30ba3,0.989,0.978,89
+MS-LS1,From Molecules to Organisms: Structures and Processes,4,Gemma 4 31b,0.955,0.978,89
+MS-LS1,From Molecules to Organisms: Structures and Processes,5,OSS 20b,0.933,0.978,89
+MS-LS1,From Molecules to Organisms: Structures and Processes,6,Llama 3.3 70b,0.91,0.955,89
+MS-LS1,From Molecules to Organisms: Structures and Processes,7,Mistral Small 3.1,0.865,0.933,89
+MS-LS1,From Molecules to Organisms: Structures and Processes,8,Granite 3.3 Instruct,0.91,0.91,89
+MS-LS1,From Molecules to Organisms: Structures and Processes,9,Llama 3.1 8b,0.831,0.854,89
+MS-LS2,"Ecosystems: Interactions, Energy, and Dynamics",1,Nemotron 3 Nano 30ba3,0.958,0.99,96
+MS-LS2,"Ecosystems: Interactions, Energy, and Dynamics",2,OSS 20b,0.927,0.99,96
+MS-LS2,"Ecosystems: Interactions, Energy, and Dynamics",3,OSS 120b,0.979,0.979,96
+MS-LS2,"Ecosystems: Interactions, Energy, and Dynamics",4,Mistral Small 3.1,0.938,0.979,96
+MS-LS2,"Ecosystems: Interactions, Energy, and Dynamics",5,Gemma 4 31b,0.969,0.969,96
+MS-LS2,"Ecosystems: Interactions, Energy, and Dynamics",6,Gemma 3 27b,0.948,0.958,96
+MS-LS2,"Ecosystems: Interactions, Energy, and Dynamics",7,Llama 3.3 70b,0.948,0.958,96
+MS-LS2,"Ecosystems: Interactions, Energy, and Dynamics",8,Granite 3.3 Instruct,0.906,0.938,96
+MS-LS2,"Ecosystems: Interactions, Energy, and Dynamics",9,Llama 3.1 8b,0.896,0.896,96
+MS-LS3,Heredity: Inheritance and Variation of Traits,1,OSS 120b,1.0,1.0,85
+MS-LS3,Heredity: Inheritance and Variation of Traits,2,Gemma 4 31b,0.976,1.0,85
+MS-LS3,Heredity: Inheritance and Variation of Traits,3,Nemotron 3 Nano 30ba3,0.976,1.0,85
+MS-LS3,Heredity: Inheritance and Variation of Traits,4,OSS 20b,0.976,0.988,85
+MS-LS3,Heredity: Inheritance and Variation of Traits,5,Llama 3.3 70b,0.941,0.988,85
+MS-LS3,Heredity: Inheritance and Variation of Traits,6,Mistral Small 3.1,0.965,0.976,85
+MS-LS3,Heredity: Inheritance and Variation of Traits,7,Gemma 3 27b,0.929,0.929,85
+MS-LS3,Heredity: Inheritance and Variation of Traits,8,Llama 3.1 8b,0.894,0.894,85
+MS-LS3,Heredity: Inheritance and Variation of Traits,9,Granite 3.3 Instruct,0.871,0.871,85
+MS-LS4,Biological Evolution: Unity and Diversity,1,Gemma 4 31b,0.989,1.0,89
+MS-LS4,Biological Evolution: Unity and Diversity,2,OSS 120b,0.989,1.0,89
+MS-LS4,Biological Evolution: Unity and Diversity,3,Nemotron 3 Nano 30ba3,0.955,1.0,89
+MS-LS4,Biological Evolution: Unity and Diversity,4,Llama 3.3 70b,0.933,0.966,89
+MS-LS4,Biological Evolution: Unity and Diversity,5,Gemma 3 27b,0.955,0.955,89
+MS-LS4,Biological Evolution: Unity and Diversity,6,Mistral Small 3.1,0.944,0.955,89
+MS-LS4,Biological Evolution: Unity and Diversity,7,OSS 20b,0.854,0.933,89
+MS-LS4,Biological Evolution: Unity and Diversity,8,Granite 3.3 Instruct,0.798,0.876,89
+MS-LS4,Biological Evolution: Unity and Diversity,9,Llama 3.1 8b,0.775,0.82,89
+MS-ESS1,Earth's Place in the Universe,1,OSS 120b,0.969,1.0,96
+MS-ESS1,Earth's Place in the Universe,2,Nemotron 3 Nano 30ba3,0.958,0.99,96
+MS-ESS1,Earth's Place in the Universe,3,Gemma 4 31b,0.969,0.979,96
+MS-ESS1,Earth's Place in the Universe,4,OSS 20b,0.927,0.979,96
+MS-ESS1,Earth's Place in the Universe,5,Llama 3.3 70b,0.938,0.958,96
+MS-ESS1,Earth's Place in the Universe,6,Gemma 3 27b,0.917,0.938,96
+MS-ESS1,Earth's Place in the Universe,7,Mistral Small 3.1,0.854,0.927,96
+MS-ESS1,Earth's Place in the Universe,8,Granite 3.3 Instruct,0.812,0.792,96
+MS-ESS1,Earth's Place in the Universe,9,Llama 3.1 8b,0.646,0.698,96
+MS-ESS2,Earth's Systems,1,OSS 120b,0.989,1.0,94
+MS-ESS2,Earth's Systems,2,Nemotron 3 Nano 30ba3,0.957,0.989,94
+MS-ESS2,Earth's Systems,3,Gemma 4 31b,0.957,0.979,94
+MS-ESS2,Earth's Systems,4,Mistral Small 3.1,0.809,0.947,94
+MS-ESS2,Earth's Systems,5,Llama 3.3 70b,0.926,0.936,94
+MS-ESS2,Earth's Systems,6,OSS 20b,0.915,0.936,94
+MS-ESS2,Earth's Systems,7,Gemma 3 27b,0.883,0.904,94
+MS-ESS2,Earth's Systems,8,Granite 3.3 Instruct,0.798,0.904,94
+MS-ESS2,Earth's Systems,9,Llama 3.1 8b,0.745,0.787,94
+MS-ESS3,Earth and Human Activity,1,Gemma 4 31b,1.0,0.989,91
+MS-ESS3,Earth and Human Activity,2,OSS 120b,0.956,0.989,91
+MS-ESS3,Earth and Human Activity,3,OSS 20b,0.956,0.989,91
+MS-ESS3,Earth and Human Activity,4,Mistral Small 3.1,0.945,0.989,91
+MS-ESS3,Earth and Human Activity,5,Nemotron 3 Nano 30ba3,0.967,0.978,91
+MS-ESS3,Earth and Human Activity,6,Llama 3.3 70b,0.945,0.978,91
+MS-ESS3,Earth and Human Activity,7,Granite 3.3 Instruct,0.923,0.967,91
+MS-ESS3,Earth and Human Activity,8,Llama 3.1 8b,0.89,0.934,91
+MS-ESS3,Earth and Human Activity,9,Gemma 3 27b,0.879,0.857,91
+MS-ETS1,Engineering Design,1,OSS 20b,1.0,1.0,88
+MS-ETS1,Engineering Design,2,OSS 120b,0.989,1.0,88
+MS-ETS1,Engineering Design,3,Nemotron 3 Nano 30ba3,1.0,0.989,88
+MS-ETS1,Engineering Design,4,Gemma 4 31b,0.989,0.989,88
+MS-ETS1,Engineering Design,5,Mistral Small 3.1,0.989,0.989,88
+MS-ETS1,Engineering Design,6,Llama 3.1 8b,0.977,0.989,88
+MS-ETS1,Engineering Design,7,Llama 3.3 70b,0.977,0.989,88
+MS-ETS1,Engineering Design,8,Granite 3.3 Instruct,0.932,0.955,88
+MS-ETS1,Engineering Design,9,Gemma 3 27b,0.909,0.909,88

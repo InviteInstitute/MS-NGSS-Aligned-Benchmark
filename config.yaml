@@ -1,0 +1,209 @@
+# =============================================================================
+# NGSS MS-Science LLM Benchmark — single configuration file
+# Secrets live in .env (referenced by `api_key_env`), never here.
+# =============================================================================
+
+defaults:
+  # Temperatures are OPTIONAL. Leave a value `null` (or blank) to NOT send temperature at all,
+  # so the model uses its own default. This matters for models that reject an explicit
+  # temperature or require a specific value (e.g. some reasoning models). Per-model overrides
+  # live in the `models` registry below (`temperature:` / `omit_temperature:`).
+  temperature_generation: 0.7   # some diversity when writing the question bank (set null to omit)
+  temperature_answer:           # benchmarking answers; null = use each model's default
+  temperature_judge:            # judging; null = use each judge's default (do not force 0)
+  # Output length: null = DO NOT send a max-token limit, so each model produces its full
+  # answer/reasoning (models reason for differing lengths). Set a number only if you want a cap.
+  max_tokens_generation:        # question-bank generation
+  max_tokens_judge:             # judge / appropriateness calls
+  request_timeout: 120          # seconds per API call (raise for slow reasoning models)
+
+concurrency:
+  max_parallel_requests: 8      # bounded worker pool per stage; raise to go faster, set 1 to debug
+
+retry:
+  max_attempts: 5               # automatic retry on transient API errors
+  backoff_seconds: 2            # initial exponential backoff
+  max_backoff: 60               # cap
+
+checkpoint:
+  enabled: true
+  flush_every: 25               # write partial results every N items so runs are resumable
+
+# -----------------------------------------------------------------------------
+# Model registry. Add/remove freely — anything here can be used as a generator,
+# judge, or benchmarked model just by referencing its key below.
+# Every entry is queried through the OpenAI-compatible API (base_url + key).
+# Pin DATED model snapshots in `model:` for reproducibility where the provider offers them.
+# Optional per-model temperature handling:
+#   temperature: <float>     always send this exact temperature for this model
+#   omit_temperature: true   never send a temperature for this model (use its own default)
+# (these override the `defaults`/`benchmark_protocol` temperatures above)
+# -----------------------------------------------------------------------------
+models:
+  Sonnet 4.6 Thinking:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: claude-4.6-sonnet-thinking
+    family: Claude
+    omit_temperature: true
+  Gemini Flash 3:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: gemini-3-flash
+    family: Gemini
+    omit_temperature: true
+  GPT 5.4:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: gpt-5.4
+    family: GPT
+    omit_temperature: true
+  OSS 120b:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: gpt-oss-120b
+    family: GPT
+    omit_temperature: true
+  OSS 20b:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: gpt-oss-20b
+    family: GPT
+    omit_temperature: true
+  Granite 3.3 Instruct:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: granite-3.3-8b-instruct
+    family: Granite
+    omit_temperature: true
+  Llama 3.3 70b:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: llama-3.3-70b-instruct
+    family: Llama
+    omit_temperature: true
+  Nemotron 3 Nano 30ba3:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: nemotron-3-nano-30b-a3b
+    family: Nemotron
+    omit_temperature: true
+  Nemotron 3 Super 120b a12:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: nemotron-3-super-120b-a12b
+    family: Nemotron
+    omit_temperature: true
+  Mistral Small 3.1:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: mistral-small-3.1
+    family: Mistral
+    omit_temperature: true
+  Llama 3.1 8b:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: llama-3.1-8b-instruct
+    family: Llama
+    omit_temperature: true
+  Gemma 4 31b:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: gemma-4-31b-it
+    family: Gemma
+    omit_temperature: true
+  Gemma 3 27b:
+    base_url: https://api.ai.it.ufl.edu/
+    api_key_env: UF_fixed
+    model: gemma-3-27b-it
+    family: Gemma
+    omit_temperature: true
+generator_model: Sonnet 4.6 Thinking    # writes the ground-truth Q&A
+gt_judges:                                      # 3-judge ground-truth validation panel
+
+- Nemotron 3 Super 120b a12
+- Gemini Flash 3
+- OSS 120b
+benchmark_models:                                                   # candidates under test
+
+- OSS 120b
+- OSS 20b
+- Granite 3.3 Instruct
+- Llama 3.3 70b
+- Nemotron 3 Nano 30ba3
+- Mistral Small 3.1
+- Llama 3.1 8b
+- Gemma 4 31b
+- Gemma 3 27b
+eval_mode: single                       # "single" | "triple"  -> which benchmark grader to use
+eval_judge: Nemotron 3 Super 120b a12   # used when eval_mode == single
+eval_judges: []                                   # used when eval_mode == triple
+
+validation:
+  # Ground-truth validation: the gt_judges panel scores each generated Q&A. By default, questions
+  # the judges DOUBTED (they disagree, or all mark the reference answer wrong) are flagged for
+  # human review and kept in the benchmark set until a human resolves them.
+  auto_drop_disagreements: true         # true -> automatically DROP any question not unanimously
+                                        # accepted by the judges (disagreement OR unanimous-wrong),
+                                        # skipping human review. Dropped items are recorded in
+                                        # results/human_review/auto_dropped_groundtruth.csv; the
+                                        # generated ground_truth.csv is left intact.
+
+# -----------------------------------------------------------------------------
+# Dataset settings
+# -----------------------------------------------------------------------------
+runs_per_model: 3
+questions_per_area: 100
+question_type_split:                    # must sum to questions_per_area
+  recall: 34
+  conceptual: 33
+  applied: 33
+dedupe:
+  similarity_threshold: 88              # rapidfuzz token_set_ratio (0-100); >= this == near-duplicate
+
+generation:
+  # Ground-truth generation auto-retries: any question that fails the readability band, the LLM
+  # appropriateness gate, or dedupe is dropped (logged to results/reports/generation_rejects.csv)
+  # and regenerated for that exact (area, standard, type) slot until the target is met.
+  max_rounds: 20                        # upper bound on regeneration passes (stops early once quota met)
+  overgen: 1.6                          # request ~60% extra per slot so filtering still leaves enough
+  stuck_patience: 2                     # consecutive zero-accept rounds before a slot is declared stuck
+  # When a (standard, type) slot is stuck (e.g. only so many distinct in-band questions exist), its
+  # remaining need is REDISTRIBUTED to sibling standards in the same area+type, so the AREA still hits
+  # its per-type quota. The run only ends short if EVERY standard for an area+type is exhausted.
+
+appropriateness:
+  fk_grade_range: [5.0, 9.0]            # middle-school Flesch-Kincaid band for question filtering
+  llm_check: true                       # also run an LLM appropriateness gate per question
+
+# Standardized, FAIR decoding applied identically to every benchmarked model:
+benchmark_protocol:
+  temperature:                          # null = omit temperature (each model uses its default).
+                                        # Set a number to standardize across models that accept it;
+                                        # models that need a fixed/omitted temp use per-model overrides.
+  max_tokens:                           # null = NO output cap, so each model answers to completion
+                                        # (reasoning models need this). Set a number only to cap.
+  system_prompt: middle_school          # key into prompts.SYSTEM_PROMPTS
+  shots: 0                              # zero-shot; no per-model tuning
+
+# Grading: binary 0/1 is the headline metric everywhere; ALSO collect a 3-level
+# rubric (0=incorrect, 0.5=partial, 1=correct) for these question types.
+grading:
+  rubric_for: [conceptual, applied]
+
+calibration:
+  sample_per_cell: 3                    # stratified human-label sample size per area x question_type
+
+# -----------------------------------------------------------------------------
+# Paths (relative to repo root)
+# -----------------------------------------------------------------------------
+paths:
+  standards_yaml: data/standards.yaml
+  ground_truth: data/ground_truth.csv
+  ground_truth_validated: data/ground_truth_validated.csv
+  responses_dir: results/responses
+  eval_dir: results/eval
+  calibration_dir: results/calibration
+  human_review_dir: results/human_review
+  reports_dir: results/reports
+  areas_doc: docs/areas_overview.md

@@ -1,0 +1,23 @@
+# Core
+openai>=1.40.0          # used as the generic OpenAI-compatible client (base_url + key)
+pyyaml>=6.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Reliability / UX
+tenacity>=8.2.0         # automatic retry with backoff
+tqdm>=4.66.0           # progress bars for concurrent stages
+
+# Quality / metrics
+rapidfuzz>=3.0.0       # embedding-free near-duplicate detection
+textstat>=0.7.3        # Flesch-Kincaid reading-level scoring
+scipy>=1.11.0          # Wilson CIs, McNemar, stats
+statsmodels>=0.14.0    # multipletests (Holm-Bonferroni), proportion CIs
+
+# UI (optional — only needed for the Streamlit app: `streamlit run app.py`)
+streamlit>=1.30.0
+ruamel.yaml>=0.18.0    # round-trip YAML edits that preserve config.yaml comments
+
+# Dev / testing
+pytest>=7.4.0

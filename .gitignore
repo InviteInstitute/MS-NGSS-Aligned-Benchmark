@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Generated outputs (keep these out of version control; regenerate from the pipeline)
+results/_runs/
+_smoke_scratch/
+_backups/
+docs/areas_overview.md
+docs/DATASHEET.md
+
+# Local tooling
+.claude/settings.local.json
+
+# Copyrighted source reference (not loaded by code; rights review pending, see docs/DECISIONS.md #31)
+MSTopic.pdf
+
+# OS
+.DS_Store

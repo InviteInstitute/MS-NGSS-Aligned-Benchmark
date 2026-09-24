@@ -1,0 +1,4 @@
+# Project-local Streamlit settings (apply when you run `streamlit run app.py` from here).
+[browser]
+# Disable Streamlit's anonymous usage telemetry — nothing is sent to Streamlit's servers.
+gatherUsageStats = false

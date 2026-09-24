@@ -1,0 +1,13 @@
+area,area_title,best_models,n_tied,ensemble_accuracy,runner_up_models,runner_up_ensemble,gap
+MS-PS1,Matter and Its Interactions,OSS 120b,1,1.0,OSS 20b,0.989,0.011
+MS-PS2,Motion and Stability: Forces and Interactions,Gemma 4 31b,1,1.0,Nemotron 3 Nano 30ba3,0.978,0.022
+MS-PS3,Energy,"Gemma 4 31b, OSS 120b, Nemotron 3 Nano 30ba3",3,1.0,"OSS 20b, Gemma 3 27b",0.988,0.012
+MS-PS4,Waves and Their Applications in Technologies for Information Transfer,"Nemotron 3 Nano 30ba3, OSS 120b",2,1.0,Gemma 4 31b,0.989,0.011
+MS-LS1,From Molecules to Organisms: Structures and Processes,"OSS 120b, Gemma 3 27b",2,0.989,"Nemotron 3 Nano 30ba3, Gemma 4 31b, OSS 20b",0.978,0.011
+MS-LS2,"Ecosystems: Interactions, Energy, and Dynamics","Nemotron 3 Nano 30ba3, OSS 20b",2,0.99,"OSS 120b, Mistral Small 3.1",0.979,0.011
+MS-LS3,Heredity: Inheritance and Variation of Traits,"OSS 120b, Gemma 4 31b, Nemotron 3 Nano 30ba3",3,1.0,"OSS 20b, Llama 3.3 70b",0.988,0.012
+MS-LS4,Biological Evolution: Unity and Diversity,"Gemma 4 31b, OSS 120b, Nemotron 3 Nano 30ba3",3,1.0,Llama 3.3 70b,0.966,0.034
+MS-ESS1,Earth's Place in the Universe,OSS 120b,1,1.0,Nemotron 3 Nano 30ba3,0.99,0.01
+MS-ESS2,Earth's Systems,OSS 120b,1,1.0,Nemotron 3 Nano 30ba3,0.989,0.011
+MS-ESS3,Earth and Human Activity,"Gemma 4 31b, OSS 120b, OSS 20b, Mistral Small 3.1",4,0.989,"Nemotron 3 Nano 30ba3, Llama 3.3 70b",0.978,0.011
+MS-ETS1,Engineering Design,"OSS 20b, OSS 120b",2,1.0,"Nemotron 3 Nano 30ba3, Gemma 4 31b, Mistral Small 3.1, Llama 3.1 8b, Llama 3.3 70b",0.989,0.011

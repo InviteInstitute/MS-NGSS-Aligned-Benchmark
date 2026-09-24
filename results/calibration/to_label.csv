@@ -1,0 +1,1367 @@
+source,item_id,run,model,area,question_type,question,reference_answer,response,llm_Gemini Flash 3,llm_Nemotron 3 Super 120b a12,llm_OSS 120b,human_score,human_notes
+groundtruth,MS-ESS1-087,,,MS-ESS1,applied,"Imagine two rock layers: one that was formed during the time when the first fish appeared, and one formed when the first land plants appeared. If fish appeared before land plants, which layer would you expect to find deeper in the ground?","The layer with the first fish fossils would be found deeper because it formed earlier in Earth's history. Rock layers stack up over time, so older events are recorded in deeper layers, and the geologic time scale helps scientists put these events in order.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS1-048,,,MS-ESS1,applied,"It is the spring equinox today. How many hours of daylight would someone in New York City have compared to someone in Sydney, Australia on that same day?","Both cities would have approximately 12 hours of daylight and 12 hours of darkness. On the equinoxes, day and night are nearly equal in length everywhere on Earth because neither hemisphere is tilted toward or away from the Sun.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS1-059,,,MS-ESS1,applied,"A model shows the Moon is about 30 Earth-diameters away from Earth. If Earth's diameter in the model is 2 cm, how far apart should the Earth and Moon be placed?","The Earth and Moon should be placed about 60 cm apart, because 30 Earth-diameters × 2 cm each equals 60 cm.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS1-031,,,MS-ESS1,conceptual,Why do all the planets in our solar system orbit the Sun in roughly the same flat plane?,"When the solar system formed, gravity pulled a spinning cloud of gas and dust together, and the rotation caused material to flatten into a disk shape. The planets formed within that disk, so they all orbit in nearly the same plane.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS1-020,,,MS-ESS1,conceptual,Why is it summer in the Northern Hemisphere when it is winter in the Southern Hemisphere?,"When the Northern Hemisphere is tilted toward the Sun, it receives more direct sunlight and has summer, while the Southern Hemisphere is tilted away from the Sun and receives less direct sunlight, making it winter there.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS1-036,,,MS-ESS1,conceptual,Why do planets closer to the Sun move faster in their orbits than planets farther away?,"The Sun's gravitational pull is stronger on objects that are closer to it, which causes those objects to move at higher speeds to maintain their orbit. Planets farther away experience weaker gravity and travel at slower orbital speeds.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS1-015,,,MS-ESS1,recall,What is the largest division of time on the geologic time scale called?,The largest division of time on the geologic time scale is called an eon.,,1.0,1.0,1.0,,
+groundtruth,MS-ESS1-097,,,MS-ESS1,recall,What does the word 'revolution' mean when talking about Earth moving around the Sun?,"Revolution is the motion of one object traveling in an orbit around another object; Earth's revolution around the Sun takes about 365.25 days, or one year.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS1-081,,,MS-ESS1,recall,"What is a fossil, and why are fossils useful in reading rock strata?",A fossil is the preserved remains or traces of an ancient organism found in rock. Fossils help scientists identify the age of rock layers and understand what life existed during different time periods.,,1.0,1.0,1.0,,
+groundtruth,MS-ESS2-081,,,MS-ESS2,applied,Suppose ocean floor rocks close to a mid-ocean ridge are much younger than rocks farther away from the ridge. How would you use this pattern to explain how two continents on either side of that ocean ended up so far apart?,"New ocean floor is constantly created at the mid-ocean ridge as magma rises and hardens, pushing the older rock—and the continents attached to it—farther apart over time. The age pattern proves the seafloor has been spreading and separating the continents for millions of years.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS2-057,,,MS-ESS2,applied,Why do you see water droplets on the outside of a cold soda can on a warm day?,"Water vapor in the warm air loses energy when it contacts the cold can surface, causing it to condense into liquid water droplets. This is the same condensation process that forms clouds when warm, moist air rises and cools in the atmosphere.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS2-075,,,MS-ESS2,applied,"A student notices that fossil coral reefs are found in rocks in the middle of Canada, far from any ocean. How would plate tectonics help explain this?","Plate tectonics explains that the area now known as central Canada was once located near a warm, shallow sea. Over millions of years, plate motion moved that landmass to its current location far from the ocean.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS2-019,,,MS-ESS2,conceptual,Why does melted rock (magma) rise toward Earth's surface instead of sinking deeper?,"Magma is less dense than the solid rock around it, so it rises through cracks and weak spots in the crust, just like a less dense liquid floats upward in a denser one.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS2-040,,,MS-ESS2,conceptual,How does the temperature of an air mass affect how much moisture it can hold?,"Warmer air can hold more water vapor than cooler air. So warm air masses tend to be more humid, and when they cool down, the water vapor condenses into clouds and precipitation.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS2-021,,,MS-ESS2,conceptual,Why do sedimentary rocks form in layers?,"Sediment like sand, mud, and shells is carried by water or wind and settles in flat layers; over time, pressure from layers above compresses the lower layers into rock, preserving the layered pattern.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS2-078,,,MS-ESS2,recall,What force causes precipitation to fall from clouds back to Earth's surface?,"Gravity causes precipitation, such as rain, snow, or hail, to fall from clouds down to Earth's surface.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS2-004,,,MS-ESS2,recall,What is compaction and cementation in the rock cycle?,"Compaction is when layers of sediment are squeezed together under pressure, and cementation is when minerals dissolved in water glue the sediment particles together; both processes create sedimentary rock.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS2-013,,,MS-ESS2,recall,What is a stationary front?,"A stationary front is a boundary between two air masses that are not moving, so neither air mass is pushing the other. Stationary fronts can cause several days of cloudy, wet weather in the same area.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS3-036,,,MS-ESS3,applied,Scientists have data showing that a certain river floods every 10 years on average. A developer wants to build a school right next to the river. What does the flood data suggest about whether this is a safe location?,"The flood data suggests it is not a safe location because there is a predictable pattern of flooding, meaning the school would likely face flood damage within a decade; the school should be built on higher ground away from the flood zone.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS3-044,,,MS-ESS3,applied,A student notices that a pond near a farm turns green with algae every summer. What measurement could the student take to monitor the nutrient levels that are causing the algae bloom?,"The student could test the pond water for nitrate and phosphate concentrations using a water testing kit. High levels of these nutrients, likely coming from fertilizer runoff, indicate conditions that cause algae to grow rapidly.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS3-080,,,MS-ESS3,applied,A small town doubles in population over 20 years and builds many new houses and roads. How would this growth most likely affect a nearby river?,"More people and development means more land is paved over, so rainwater runs off into the river faster and carries more pollution, raising sediment levels and lowering water quality in the river.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS3-013,,,MS-ESS3,conceptual,Why are coal deposits only found in certain layers of rock and not spread evenly through Earth's crust?,"Coal forms from ancient plant material that was buried, compressed, and heated over millions of years. Because forests only grew in specific places and times in Earth's history, coal deposits are concentrated in the rock layers that formed in those specific environments.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS3-030,,,MS-ESS3,conceptual,"Why does land use change, like turning forests into farmland or cities, lead to warmer temperatures?","Forests and natural land absorb carbon dioxide and reflect some sunlight, helping to keep temperatures lower. When land is converted to farms or cities, less CO2 is absorbed and surfaces absorb more heat, contributing to local and global warming.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS3-090,,,MS-ESS3,conceptual,Why does early warning technology for tsunamis help save more lives than just watching the ocean?,"Tsunamis can travel hundreds of miles in a short time, so by the time you see the wave it is too late to escape. Sensors on the ocean floor detect the underwater earthquakes that cause tsunamis and send alerts minutes to hours in advance, giving people time to evacuate to higher ground.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS3-056,,,MS-ESS3,recall,What is a tsunami warning system?,"A tsunami warning system is a network of sensors, buoys, and communication tools that detects unusual ocean waves caused by underwater earthquakes and alerts people in coastal areas to evacuate before a tsunami arrives.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS3-059,,,MS-ESS3,recall,What does the term 'carrying capacity' mean?,"Carrying capacity is the maximum number of individuals of a species that an environment can support over a long period of time given the available food, water, and other resources.",,1.0,1.0,1.0,,
+groundtruth,MS-ESS3-057,,,MS-ESS3,recall,What type of data do scientists use to predict when a volcano might erupt?,"Scientists use data such as earthquake activity near the volcano, ground deformation (swelling of the ground), gas emissions, and changes in temperature to predict volcanic eruptions.",,1.0,1.0,1.0,,
+groundtruth,MS-ETS1-031,,,MS-ETS1,applied,A student wants to design a birdhouse to attract bluebirds. A science reference says bluebirds prefer entrance holes that are exactly 1.5 inches in diameter. How does this scientific principle affect the design criteria?,"The scientific fact about bluebird preferences becomes a precise criterion: the entrance hole must be 1.5 inches in diameter. Ignoring this would mean the birdhouse fails to attract bluebirds, so the design would not meet its goal.",,1.0,1.0,1.0,,
+groundtruth,MS-ETS1-043,,,MS-ETS1,applied,Two designs for a water filter are tested by pouring the same amount of muddy water through each and measuring how clear the filtered water is on a scale of 1–10. Filter A scores an 8 and Filter B scores a 5. The criterion is to produce the clearest water possible. How does this scoring system help evaluate the designs?,"The numbered scale turns water clarity into measurable data, making it easy to directly compare both designs against the criterion. Filter A's score of 8 vs. Filter B's score of 5 clearly shows which design better meets the clarity criterion.",,1.0,1.0,1.0,,
+groundtruth,MS-ETS1-069,,,MS-ETS1,applied,"A student is designing a model parachute and tests it by dropping it from the same height three times, measuring how long it takes to land. The parachute lands in about 2 seconds each time. She then makes the canopy wider and tests again. What is the purpose of repeating the drop three times before making a change?",Repeating the test multiple times generates reliable data by showing whether the result is consistent or just due to chance. This makes it easier to tell whether a design change actually caused an improvement.,,1.0,1.0,1.0,,
+groundtruth,MS-ETS1-062,,,MS-ETS1,conceptual,Why might a design that scores highest overall in testing still not be the best choice to copy exactly?,"Even the top-scoring design may have some poor-performing features, so engineers can do better by selecting only the strongest characteristics from all tested solutions rather than copying one design entirely.",,1.0,1.0,1.0,,
+groundtruth,MS-ETS1-025,,,MS-ETS1,conceptual,Why is it useful to test multiple design solutions instead of just one?,Testing multiple solutions lets you compare how each one performs and find strengths in different designs that a single solution might not have. This gives you more information to create an improved design.,,1.0,1.0,1.0,,
+groundtruth,MS-ETS1-081,,,MS-ETS1,conceptual,How does collecting data from a model test help engineers make a better design?,"Data from tests shows exactly where the design is not meeting the goals, such as being too weak or too slow. Engineers use that evidence to make specific changes rather than just guessing what to fix.",,1.0,1.0,1.0,,
+groundtruth,MS-ETS1-058,,,MS-ETS1,recall,What does the word 'criteria' mean in engineering design?,"Criteria are the specific requirements or goals that a successful design solution must meet, such as how strong, fast, or cheap it needs to be.",,1.0,1.0,1.0,,
+groundtruth,MS-ETS1-007,,,MS-ETS1,recall,What is a prototype in engineering?,A prototype is an early model or sample of a design that is built and tested to see how well it works before a final version is made.,,1.0,1.0,1.0,,
+groundtruth,MS-ETS1-002,,,MS-ETS1,recall,What does it mean to 'define' a design problem in engineering?,"To define a design problem means to clearly state what needs to be solved, what the solution must do, and what limits apply, so that a successful solution can be developed.",,1.0,1.0,1.0,,
+groundtruth,MS-LS1-044,,,MS-LS1,applied,"A dandelion plant grows in a field and produces seeds with tiny, feathery parachutes. If a strong wind blows, how does this help the plant reproduce more successfully than if the seeds had no parachutes?","The feathery parachutes allow seeds to be carried far away by the wind, spreading them to new locations where they are less crowded and more likely to find good soil and sunlight, increasing the chances that some seeds will grow into new plants.",,1.0,1.0,1.0,,
+groundtruth,MS-LS1-035,,,MS-LS1,applied,Imagine a cell's mitochondria suddenly stopped working. What would happen to the cell's ability to grow and do its job?,"The cell would run out of energy because mitochondria produce the energy (ATP) cells need to carry out all their functions. Without energy, the cell could not grow, move, or carry out basic life processes and would eventually die.",,1.0,1.0,1.0,,
+groundtruth,MS-LS1-046,,,MS-LS1,applied,"A cactus plant produces bright red fruits filled with seeds that birds love to eat. After a bird eats the fruit and flies away, what happens to the seeds, and why does this help the cactus reproduce?","The seeds pass through the bird's digestive system unharmed and are deposited in a new location through the bird's droppings, spreading the cactus seeds far from the parent plant where they can grow with less competition for water and nutrients.",,1.0,1.0,1.0,,
+groundtruth,MS-LS1-060,,,MS-LS1,conceptual,Why are cells considered the basic building blocks of all living things?,"Cells are considered the basic building blocks of life because every living organism is made of at least one cell, and all life functions—like getting energy, growing, and reproducing—are carried out by cells. Nothing smaller than a cell can perform all of these life processes on its own.",,1.0,1.0,1.0,,
+groundtruth,MS-LS1-023,,,MS-LS1,conceptual,How does the oxygen we breathe get released by plants during photosynthesis?,"During photosynthesis, plants split water molecules using light energy. The hydrogen atoms are used to build glucose, and the leftover oxygen atoms are released as oxygen gas (O2) into the air as a byproduct.",,1.0,1.0,1.0,,
+groundtruth,MS-LS1-065,,,MS-LS1,conceptual,Why does a plant growing in poor soil stay small even if it gets plenty of water and light?,"Soil provides essential nutrients like nitrogen and phosphorus that plants need to build proteins and other molecules for growth. Without enough of these nutrients, the plant cannot produce enough materials to grow to its full genetic potential, so it stays small.",,1.0,1.0,1.0,,
+groundtruth,MS-LS1-003,,,MS-LS1,recall,What is the difference between a plant cell and an animal cell?,"Plant cells have a cell wall, chloroplasts, and a large central vacuole, while animal cells do not. Animal cells have these features absent, making the two cell types distinct.",,1.0,1.0,1.0,,
+groundtruth,MS-LS1-011,,,MS-LS1,recall,What do we call the nerve cells that carry signals from sensory receptors to the brain?,"These nerve cells are called sensory neurons, which transmit electrical signals from sensory receptors to the brain.",,1.0,1.0,1.0,,
+groundtruth,MS-LS1-083,,,MS-LS1,recall,What type of tissue covers the outside of the body and lines many internal organs?,Epithelial tissue covers the outside of the body and lines many internal organs and cavities.,,1.0,1.0,1.0,,
+groundtruth,MS-LS2-036,,,MS-LS2,applied,"A city park has a large flock of pigeons, but the park workers stop leaving out birdseed. What would you predict happens to the pigeon population in that park?","The pigeon population in the park would likely decrease because one of their key food sources has been removed. With less food available, some pigeons would starve or move to other areas where food is easier to find.",,1.0,1.0,1.0,,
+groundtruth,MS-LS2-054,,,MS-LS2,applied,A school has a grass lawn that is mowed every week. A student proposes replacing part of it with a native wildflower meadow. How would the wildflower meadow better support biodiversity compared to the mowed lawn?,"A native wildflower meadow provides food and shelter for pollinators, birds, and insects that a short mowed lawn cannot support. The variety of plants in the meadow creates a more complex habitat, which supports more species than a single type of grass.",,1.0,1.0,1.0,,
+groundtruth,MS-LS2-039,,,MS-LS2,applied,"Rabbits in a meadow depend on grass for food. If a drought kills much of the grass one summer, what do you predict happens to the rabbit population that season?","The rabbit population would likely decrease because there is less food available. With fewer resources, some rabbits may starve or move to other areas, causing the population to drop.",,1.0,1.0,1.0,,
+groundtruth,MS-LS2-012,,,MS-LS2,conceptual,Why does a rabbit population grow larger when there is more grass available to eat?,"When more food is available, more rabbits can survive and reproduce successfully. With enough energy from food, individual rabbits are healthier and can raise more offspring, so the overall population size increases.",,1.0,1.0,1.0,,
+groundtruth,MS-LS2-026,,,MS-LS2,conceptual,Why does a population of deer increase when wolves are removed from an ecosystem?,"Wolves are predators that keep the deer population in check by hunting them. Without wolves, fewer deer are eaten, so more deer survive and reproduce, causing the population to grow.",,1.0,1.0,1.0,,
+groundtruth,MS-LS2-062,,,MS-LS2,conceptual,Why do parasites usually not kill their hosts right away?,"A parasite depends on its living host for food and shelter, so if it killed the host immediately, the parasite would lose its source of energy and could not reproduce. Parasites that take just enough resources to survive and reproduce tend to be more successful, and this pattern is observed in parasite-host relationships across many ecosystems.",,1.0,1.0,1.0,,
+groundtruth,MS-LS2-085,,,MS-LS2,recall,What is matter in the context of ecosystems?,"Matter refers to the physical substances that cycle through an ecosystem, including water, carbon, nitrogen, and other nutrients that are used and reused by living and nonliving things.",,1.0,1.0,1.0,,
+groundtruth,MS-LS2-082,,,MS-LS2,recall,What is biomass?,"Biomass is the total mass of living organic matter in a given area or trophic level, and it represents the stored energy available to the next level in a food chain.",,1.0,1.0,1.0,,
+groundtruth,MS-LS2-093,,,MS-LS2,recall,About how much energy is passed from one trophic level to the next in a food chain?,About 10% of the energy from one trophic level is transferred to the next level; the remaining 90% is lost mostly as heat.,,1.0,1.0,1.0,,
+groundtruth,MS-LS3-032,,,MS-LS3,applied,Identical twins form when one fertilized egg splits into two. Fraternal twins form when two separate eggs are each fertilized by different sperm. Which pair would be more genetically similar to each other?,"Identical twins would be more genetically similar because they both came from the same fertilized egg and share the same DNA. Fraternal twins each received a different combination of genes from sexual reproduction, so they are as genetically different as regular siblings.",,1.0,1.0,1.0,,
+groundtruth,MS-LS3-027,,,MS-LS3,applied,A mutation causes a plant to produce a bitter-tasting chemical in its leaves. How might this affect insects that try to eat the plant?,"Insects would likely avoid eating the plant because of the bitter taste, making this mutation beneficial for the plant since it protects it from being eaten by pests.",,1.0,1.0,1.0,,
+groundtruth,MS-LS3-024,,,MS-LS3,applied,A child is born with a mutation that prevents their body from making a protein that breaks down a certain sugar. What might happen when that child eats foods containing that sugar?,"The sugar would build up in the child's body because the enzyme protein needed to break it down is missing or nonfunctional, which could be harmful and lead to health problems.",,1.0,1.0,1.0,,
+groundtruth,MS-LS3-017,,,MS-LS3,conceptual,Why do mutations on chromosomes get passed down from parents to offspring?,"Chromosomes are copied and passed to offspring during reproduction. If a parent's chromosome carries a mutation in a gene, that altered gene is included in the copy passed to the child.",,1.0,1.0,1.0,,
+groundtruth,MS-LS3-067,,,MS-LS3,conceptual,Why is a field of corn grown from cuttings of one plant more at risk from a disease than a field grown from seeds?,"Plants grown from cuttings are genetically identical clones, so if one plant is vulnerable to a disease, all of them are; seeds from sexual reproduction produce genetic variation, meaning some plants may resist the disease.",,1.0,1.0,1.0,,
+groundtruth,MS-LS3-069,,,MS-LS3,conceptual,Why do some mutations have no effect on an organism at all?,"Some mutations occur in parts of the DNA that don't code for important proteins, or the change still produces an amino acid that keeps the protein working the same way. Because the protein's shape and function stay the same, the organism is unaffected.",,1.0,1.0,1.0,,
+groundtruth,MS-LS3-043,,,MS-LS3,recall,What is the process called when gametes are produced with half the normal number of chromosomes?,"The process is called meiosis, a type of cell division that produces gametes with half the number of chromosomes as the parent cell.",,1.0,1.0,1.0,,
+groundtruth,MS-LS3-064,,,MS-LS3,recall,How many chromosomes do humans normally have in most body cells?,"Humans normally have 46 chromosomes, arranged in 23 pairs, in most body cells.",,1.0,1.0,1.0,,
+groundtruth,MS-LS3-007,,,MS-LS3,recall,What does it mean when a mutation is 'heritable'?,A heritable mutation is one that occurs in reproductive cells (sperm or egg) and can be passed on from a parent to offspring.,,1.0,1.0,1.0,,
+groundtruth,MS-LS4-054,,,MS-LS4,applied,"You are shown embryo pictures of a snake and a dog, and both show small limb buds at an early stage of development, even though adult snakes have no legs. What does this pattern suggest about snakes?",It suggests that snakes evolved from ancestors that had legs. The temporary limb buds in snake embryos are a clue to their evolutionary history that you cannot see by looking at adult snakes.,,1.0,1.0,1.0,,
+groundtruth,MS-LS4-035,,,MS-LS4,applied,A rancher wants all of his cows to produce more milk. He uses artificial insemination to breed all his cows with sperm from one bull that naturally produces offspring with high milk output. What would you predict happens to the milk production of the herd over the next few generations?,Milk production across the herd would likely increase over the next few generations because the genes for high milk output from the selected bull would be passed on to a larger portion of the herd through artificial insemination.,,1.0,1.0,1.0,,
+groundtruth,MS-LS4-037,,,MS-LS4,applied,"A graph shows that before a forest fire, 70% of a moth population had light-colored wings and 30% had dark wings. After the fire left dark tree bark, a new graph shows 80% dark wings and 20% light wings after 15 generations. What does this change in percentages tell you about natural selection?","Natural selection favored dark-winged moths because they were harder for predators to spot on dark bark, so they survived longer and passed on that trait. Over 15 generations, the dark-wing trait increased in frequency while the light-wing trait decreased.",,1.0,1.0,1.0,,
+groundtruth,MS-LS4-060,,,MS-LS4,conceptual,How do scientists use index fossils to determine the age of a rock layer?,"Index fossils come from organisms that lived during a specific, well-defined time period and are found in many locations around the world. When scientists find an index fossil in a rock layer, they can estimate when that layer was formed based on the known age range of that organism.",,1.0,1.0,1.0,,
+groundtruth,MS-LS4-079,,,MS-LS4,conceptual,Why do humans and chimpanzees have so many similar bones and muscles?,"Humans and chimpanzees share a relatively recent common ancestor, so they inherited many of the same anatomical features from that ancestor. Greater anatomical similarity indicates a closer evolutionary relationship.",,1.0,1.0,1.0,,
+groundtruth,MS-LS4-080,,,MS-LS4,conceptual,Why do scientists say that all tetrapods (four-limbed vertebrates) are related to ancient fish?,"Fossil fish like Tiktaalik show a combination of fish and tetrapod features, including fin bones that resemble the limb bones of land animals. This anatomical evidence suggests that four-limbed land vertebrates evolved from lobe-finned fish ancestors.",,1.0,1.0,1.0,,
+groundtruth,MS-LS4-010,,,MS-LS4,recall,What does the term 'natural selection' mean?,"Natural selection is the process by which individuals with traits better suited to their environment are more likely to survive and reproduce, passing those traits to their offspring.",,1.0,1.0,1.0,,
+groundtruth,MS-LS4-081,,,MS-LS4,recall,What is a tail structure that appears in many vertebrate embryos?,"Many vertebrate embryos, including human embryos, develop a small tail structure early in development. This tail disappears before birth in most species, but its presence shows a shared ancestry among vertebrates.",,1.0,1.0,1.0,,
+groundtruth,MS-LS4-015,,,MS-LS4,recall,"In biology, what does the word 'fitness' mean?","In biology, fitness refers to an organism's ability to survive and reproduce in its environment, not how strong or athletic it is.",,1.0,1.0,1.0,,
+groundtruth,MS-PS1-036,,,MS-PS1,applied,"If a town's only drinking water pipe is made of PVC plastic and it cracks, they must replace it with a new PVC pipe. What natural resource must be extracted to produce the new PVC pipe?",PVC (polyvinyl chloride) is made primarily from petroleum and salt (sodium chloride). Petroleum must be extracted and chemically processed to produce the vinyl chloride monomers that are used to manufacture the new PVC pipe.,,1.0,1.0,1.0,,
+groundtruth,MS-PS1-037,,,MS-PS1,applied,"If you leave an ice cube on the kitchen counter on a warm day, what happens to the particles in the ice as it melts?","The particles in the ice gain thermal energy from the warmer surroundings, which causes them to vibrate faster and eventually break free from their fixed positions, changing the ice from a solid to liquid water.",,1.0,1.0,1.0,,
+groundtruth,MS-PS1-041,,,MS-PS1,applied,"If you leave a steel nail outside and it rusts completely, would the rusty nail weigh more or less than the original nail?","The rusty nail would weigh more, because iron atoms from the nail combined with oxygen atoms from the air to form iron oxide (rust). The nail gained mass by adding oxygen atoms to its structure.",,1.0,1.0,1.0,,
+groundtruth,MS-PS1-025,,,MS-PS1,conceptual,Why does a hand warmer get hot when you open the packet and expose it to air?,"When the iron powder inside reacts with oxygen in the air, a chemical reaction called oxidation occurs. This reaction releases energy in the form of heat, which is why the packet warms up.",,1.0,1.0,1.0,,
+groundtruth,MS-PS1-086,,,MS-PS1,conceptual,How do atoms stay connected to each other in a molecule?,"Atoms stay connected by sharing or transferring electrons, which creates a chemical bond. These bonds act like a force that holds the atoms together in a stable arrangement.",,1.0,1.0,1.0,,
+groundtruth,MS-PS1-016,,,MS-PS1,conceptual,Why is it important to know both which atoms are in a molecule and how many of each type there are?,"Knowing only the types of atoms is not enough to identify a substance because many different compounds share the same elements. The exact count of each atom determines the specific molecule, its formula, and its unique properties.",,1.0,1.0,1.0,,
+groundtruth,MS-PS1-009,,,MS-PS1,recall,What is polyester made from?,Polyester is a synthetic fabric made from chemicals derived from petroleum (crude oil).,,1.0,1.0,1.0,,
+groundtruth,MS-PS1-070,,,MS-PS1,recall,"What is nylon, and what natural resources is it made from?","Nylon is a synthetic fabric used in clothing and other products. It is made from petroleum-based chemicals, specifically processed hydrocarbons derived from crude oil.",,1.0,1.0,1.0,,
+groundtruth,MS-PS1-081,,,MS-PS1,recall,What does it mean when we say a synthetic material 'comes from' a natural resource?,"It means that the raw starting materials used to create the synthetic substance are originally taken from nature, even though the final product is made through human-engineered chemical processes.",,1.0,1.0,1.0,,
+groundtruth,MS-PS2-089,,,MS-PS2,applied,"Two kids are pushing a stalled car from behind, and a third kid joins and also pushes in the same direction. What happens to how quickly the car speeds up?","The car speeds up faster because the total force on it increases. A greater net force on the same mass produces a greater acceleration, so adding another person pushing in the same direction increases the car's rate of change in motion.",,1.0,1.0,1.0,,
+groundtruth,MS-PS2-049,,,MS-PS2,applied,"If you push a shopping cart that is full of groceries and one that is empty with the same force, which one speeds up faster?","The empty cart speeds up faster because it has less mass. With the same force applied, a smaller mass results in a greater acceleration.",,1.0,1.0,1.0,,
+groundtruth,MS-PS2-088,,,MS-PS2,applied,"If you're standing on a skateboard and you throw a heavy ball forward, what happens to you and the skateboard, and why?","You and the skateboard roll backward. When you push the ball forward, the ball pushes back on you with an equal and opposite force (Newton's Third Law), causing you to move in the opposite direction. The harder you throw the ball, the faster you roll backward.",,1.0,1.0,1.0,,
+groundtruth,MS-PS2-026,,,MS-PS2,conceptual,Why does a feather fall more slowly than a rock even though gravity pulls both downward?,"Air resistance pushes upward on both objects, but it has a much bigger effect on the feather because of its shape and low mass. This reduces the net downward force on the feather, causing it to accelerate more slowly.",,1.0,1.0,1.0,,
+groundtruth,MS-PS2-069,,,MS-PS2,conceptual,Why don't the two equal and opposite forces in Newton's Third Law cancel each other out?,"The two forces act on different objects, not on the same object, so they cannot cancel each other. Each force affects the motion of the object it acts on separately.",,1.0,1.0,1.0,,
+groundtruth,MS-PS2-022,,,MS-PS2,conceptual,Why does a small car accelerate faster than a large truck when both engines push with the same force?,"The small car has less mass, so the same net force produces a greater acceleration. Since acceleration depends on force divided by mass, less mass means more acceleration.",,1.0,1.0,1.0,,
+groundtruth,MS-PS2-096,,,MS-PS2,recall,What does it mean when we say opposite magnetic poles attract?,"It means the north pole of one magnet is pulled toward the south pole of another magnet, producing an attractive force between them.",,1.0,1.0,1.0,,
+groundtruth,MS-PS2-005,,,MS-PS2,recall,What are unbalanced forces?,"Unbalanced forces occur when the forces acting on an object do not cancel out, producing a net force greater than zero that causes the object to change its motion.",,1.0,1.0,1.0,,
+groundtruth,MS-PS2-084,,,MS-PS2,recall,What happens when two like magnetic poles are brought close together?,"When two like magnetic poles (north-north or south-south) are brought close together, they repel each other.",,1.0,1.0,1.0,,
+groundtruth,MS-PS3-054,,,MS-PS3,applied,"You put a thermometer in a sandbox and another in a bucket of water, and both sit in the sun for an hour. The sand gets much hotter than the water. What does this tell you about sand and water as materials?","Sand and water are different types of matter that require different amounts of energy to change temperature. Sand requires less energy per gram to raise its temperature, so it heats up more than water when the same amount of solar energy is transferred to both.",,1.0,1.0,1.0,,
+groundtruth,MS-PS3-052,,,MS-PS3,applied,You touch a metal spoon and a wooden spoon that have been sitting in a bowl of hot soup for the same amount of time. The metal spoon feels much hotter. What does this tell you about how the two materials transferred energy?,"Metal transfers energy more readily than wood, so more thermal energy moved into your hand from the metal spoon in the same amount of time, making it feel hotter even though both were in the same soup.",,1.0,1.0,1.0,,
+groundtruth,MS-PS3-074,,,MS-PS3,applied,"When you catch a fast-moving baseball and it stops in your glove, where does the ball's kinetic energy go?","When the ball stops, its kinetic energy is transferred to your hand and glove. You can feel this as the sting or force on your hand, and some energy is also converted to heat and sound.",,1.0,1.0,1.0,,
+groundtruth,MS-PS3-089,,,MS-PS3,conceptual,Why does a ball held high above the ground have more potential energy than the same ball held close to the ground?,"Gravity pulls the ball and Earth toward each other, so when they are farther apart the system stores more gravitational potential energy. As the distance between the ball and Earth increases, the arrangement of the two objects changes and more potential energy is stored in the system.",,1.0,1.0,1.0,,
+groundtruth,MS-PS3-088,,,MS-PS3,conceptual,Why does a moving car have more kinetic energy than a parked car of the same mass?,"Kinetic energy is the energy of motion, so an object only has kinetic energy when it is moving. A parked car has zero speed, which means it has zero kinetic energy, while the moving car has speed and therefore has kinetic energy.",,1.0,1.0,1.0,,
+groundtruth,MS-PS3-024,,,MS-PS3,conceptual,Why does a pendulum have the most potential energy at the highest point of its swing?,"At the highest point of its swing, the pendulum bob is farthest from its lowest position, meaning it has the greatest separation from Earth relative to its swing path. This maximum height corresponds to the most gravitational potential energy stored in the system.",,1.0,1.0,1.0,,
+groundtruth,MS-PS3-015,,,MS-PS3,recall,"When a moving object collides with a still object and makes it move, what happened to the energy?",Energy was transferred from the moving object to the still object. The moving object loses kinetic energy and the previously still object gains kinetic energy.,,1.0,1.0,1.0,,
+groundtruth,MS-PS3-008,,,MS-PS3,recall,What is radiation in terms of heat transfer?,"Radiation is the transfer of thermal energy through electromagnetic waves, such as infrared light. Unlike conduction and convection, radiation does not need matter to travel through and can move through empty space.",,1.0,1.0,1.0,,
+groundtruth,MS-PS3-060,,,MS-PS3,recall,"If two objects are moving at the same speed but one has more mass, which one has more kinetic energy?","The object with more mass has more kinetic energy. Kinetic energy increases proportionally as mass increases, when speed stays the same.",,1.0,1.0,1.0,,
+groundtruth,MS-PS4-055,,,MS-PS4,applied,A doctor uses X-rays to take a picture of your broken arm. Why do bones show up clearly on an X-ray image but the soft tissue around them doesn't?,"Dense bone material absorbs X-ray waves, preventing them from passing through to the film or detector, so bones appear white. Soft tissue like muscle transmits most X-rays through it, so those areas appear darker on the image.",,1.0,1.0,1.0,,
+groundtruth,MS-PS4-078,,,MS-PS4,applied,"You are listening to your favorite song on a vinyl record (analog) and there are scratches on it, making the music sound crackly. If you played the same song from a digital music file instead, would the scratches affect the sound? Why or why not?","No, the scratches would not affect the digital file because digital signals store music as a series of 0s and 1s, and small damage or interference does not change those values the way it distorts an analog wave. The digital player can still read the exact data and reproduce the song accurately.",,1.0,1.0,1.0,,
+groundtruth,MS-PS4-049,,,MS-PS4,applied,"Your school uses a digital intercom system. If there is a brief burst of electrical noise in the building, why might the announcement still come through clearly instead of sounding garbled?","The digital intercom encodes the audio as 0s and 1s, and a brief noise burst only needs to flip a few bits, which error-correction systems can detect and fix. An analog intercom would directly add that noise burst as a loud click or buzz in the audio.",,1.0,1.0,1.0,,
+groundtruth,MS-PS4-062,,,MS-PS4,conceptual,How does a guitarist make a louder sound by plucking a string harder?,"Plucking harder gives the string more energy, causing it to vibrate with a greater amplitude. A greater amplitude means the sound wave produced also has a greater amplitude and therefore carries more energy, making it louder.",,1.0,1.0,1.0,,
+groundtruth,MS-PS4-023,,,MS-PS4,conceptual,Why can radio waves pass through the walls of your house to reach your radio or TV?,"Radio waves have long wavelengths that can be transmitted through many building materials, such as wood and drywall, without being completely absorbed or reflected. This allows the waves to carry signal information from outside antennas into your home.",,1.0,1.0,1.0,,
+groundtruth,MS-PS4-061,,,MS-PS4,conceptual,How can you tell just by looking at a wave diagram which wave has the most energy?,"You look at the amplitude, which is the height of the wave from its rest position to its peak. The wave with the tallest amplitude has the most energy.",,1.0,1.0,1.0,,
+groundtruth,MS-PS4-087,,,MS-PS4,recall,What are the two values used in a binary (digital) system?,"The two values used in a binary system are 0 and 1, which can also be thought of as off and on, or low and high.",,1.0,1.0,1.0,,
+groundtruth,MS-PS4-007,,,MS-PS4,recall,What happens to the energy of a wave if its amplitude is doubled?,"When the amplitude of a wave is doubled, the energy of the wave increases by a factor of four, because wave energy is proportional to the square of the amplitude.",,1.0,1.0,1.0,,
+groundtruth,MS-PS4-011,,,MS-PS4,recall,What is refraction?,Refraction is the bending of a wave as it passes from one material into another material where it travels at a different speed.,,1.0,1.0,1.0,,
+response,MS-ESS1-051,1,Granite 3.3 Instruct,MS-ESS1,applied,,,"Gravity is the force that pulls objects toward each other. The Sun's gravity pulls everything in space, including a comet. When a comet is far from the Sun, the Sun's pull isn't very strong, so the comet moves slowly. 
+
+However, as the comet gets closer to the Sun, the Sun's gravity gets stronger. This stronger pull speeds up the comet, like a rubber band being pulled back and then let go. This explains why comets accelerate when they're near the Sun. 
+
+It's also important to note that as the comet gets closer, it starts to orbit faster because it's following a rule in physics called Kepler's Law of Orbits, which says that a line joining a planet and the Sun sweeps out equal areas in equal times. So, as the comet is pulled closer to the Sun, it has to move quicker to keep up.",,1.0,,,
+response,MS-ESS1-074,1,Gemma 4 31b,MS-ESS1,applied,,,"To figure this out, we first need to know the distance to the Moon. On average, the Moon is about **238,855 miles** away from Earth.
+
+If you drive at a steady speed of **60 miles per hour (mph)**, you can find the time by dividing the total distance by your speed:
+
+**238,855 miles ÷ 60 miles per hour = 3,981 hours**
+
+To make that number easier to understand, let's turn those hours into days:
+
+**3,981 hours ÷ 24 hours in a day ≈ 166 days**
+
+So, if there were a highway to the Moon and you never stopped to eat or sleep, the trip would take about **166 days**. That is roughly five and a half months!",,1.0,,,
+response,MS-ESS1-054,1,OSS 120b,MS-ESS1,applied,,,"**Gravity works like an invisible glue that holds the whole galaxy together.**  
+
+* **Mass makes gravity.** Every star, planet, gas cloud, and even dust has mass. Mass creates a gravitational pull that reaches out in all directions.  
+
+* **All the pulls add up.** In the Milky Way there are billions of stars. Each one pulls on every other one, so the total pull is huge. The combined gravity of all the stars (and the gas, dust, and other invisible stuff) creates a deep “gravity well” that keeps the whole system bound together.
+
+* **Stars are moving, but gravity keeps them in orbit.** A star isn’t standing still; it races around the galaxy’s center. Think of a car on a circular track. The car wants to go straight, but the track’s wall pushes it inward so it stays on the curve. In a galaxy, the “wall” is gravity. The star’s forward speed (its orbital velocity) tries to fling it outward, while the galaxy’s gravity pulls it inward. When the two forces match, the star follows a stable orbit instead of drifting away.
+
+* **Why the whole galaxy doesn’t fall apart.** If the stars moved too fast, their outward motion would outrun the pull of gravity and they would escape. If they moved too slowly, gravity would pull them inward and the galaxy would collapse. In the Milky Way the speeds of the stars are just right for the amount of gravity that exists, so the galaxy stays roughly the same size over billions of years.
+
+* **Extra “invisible” mass helps too.** Astronomers have measured that the stars’ speeds are a bit faster than we would expect from the visible matter alone. That means there is extra mass we can’t see—called **dark matter**—that also contributes gravity and helps keep the outer parts of the galaxy from flying apart.
+
+So, gravity from all the mass (stars, gas, dust, and dark matter) pulls inward, while the stars’ orbital motion pushes outward. The balance of these two effects keeps the Milky Way’s billions of stars from drifting apart.",,1.0,,,
+response,MS-ESS1-028,1,OSS 20b,MS-ESS1,conceptual,,,"The Sun’s gravity pulls everything toward it.  
+When an object is **near the Sun** the pull is much stronger, so the object needs a **larger sideways speed** to balance that pull and stay in orbit.
+
+**How it works**
+
+1. **Gravity gives the centripetal force**.  
+   The force that keeps a planet in a circle is \(F = \dfrac{GMm}{r^{2}}\) (the Sun’s mass \(M\), the planet’s mass \(m\), and the distance \(r\)).
+
+2. **Centripetal force equals mass × speed² ÷ radius**.  
+   \(F = \dfrac{mv^{2}}{r}\).
+
+3. Set the two forces equal to find the orbital speed \(v\):
+
+\[
+\dfrac{GMm}{r^{2}} = \dfrac{mv^{2}}{r}\quad\Rightarrow\quad v = \sqrt{\dfrac{GM}{r}}
+\]
+
+The speed \(v\) is larger when \(r\) (the distance from the Sun) is smaller.  
+So an object close to the Sun orbits faster than one farther away.
+
+**Why the numbers match**
+
+- Earth’s distance is about 1 AU (≈ 150 million km).  
+- Mars is about 1.5 AU away.  
+- Plugging the numbers into the formula shows Earth’s speed (~30 km/s) is higher than Mars’s (~24 km/s).
+
+**Summary**
+
+Closer objects feel a stronger pull from the Sun, so they must move faster to stay in orbit. The relation \(v = \sqrt{GM/r}\) tells us the speed only depends on the distance; the closer you are, the larger the speed.",,1.0,,,
+response,MS-ESS1-040,2,Granite 3.3 Instruct,MS-ESS1,conceptual,,,"Scientists use rock layers, also known as strata, to determine the order of ancient events because these layers are like pages in a history book. Each layer was formed over a period of time, with newer layers on top and older layers below. This concept is called superposition, which means that in undisturbed rock layers, the oldest layers are at the bottom and the youngest are on top.
+
+For example, if a scientist finds a certain type of fossil in one layer, but not in another, they can tell that the fossil's species existed during the time when the first layer was formed and not when the second layer was formed. 
+
+Additionally, some rock layers contain volcanic ash or other materials that can be dated using special techniques. These date tags help scientists assign specific ages to the layers.
+
+So, by studying the order of rock layers and the fossils and materials they contain, scientists can piece together a timeline of Earth's history. It's like flipping through the pages of a giant book that Earth has been writing for billions of years!",,1.0,,,
+response,MS-ESS1-089,3,Gemma 3 27b,MS-ESS1,conceptual,,,"Planets farther from the Sun take longer to orbit it. This is because of gravity and speed. 
+
+The Sun's gravity pulls on planets. The closer a planet is, the stronger the pull. A stronger pull means the planet moves faster in its orbit. 
+
+Think of it like swinging a ball on a string. A short string (close to the Sun) needs a faster swing to keep the ball from falling in. A long string (far from the Sun) can swing slower.
+
+Also, planets farther away have a *longer distance* to travel around the Sun. Even if they weren't moving slower, it would still take them more time to complete one orbit.
+
+So, distance and gravity work together: farther away means weaker gravity, slower speed, and a longer path, all adding up to a longer orbit!",,1.0,,,
+response,MS-ESS1-004,3,OSS 20b,MS-ESS1,recall,,,"A galaxy is held together mainly by **gravity**.  
+Every star, gas cloud, dust, and even the tiny particles inside a galaxy feel the pull of every other piece of matter.
+
+* **Gravity** is a force that attracts masses toward each other.  
+* In a galaxy, the combined gravity of all the stars, gas, dust, and the invisible “dark matter” creates a deep gravitational well.  
+* Objects orbit in this well: stars orbit around the centre, gas moves in the same way, and the whole system stays bound.
+
+So, the pull of gravity on all the galaxy’s contents keeps it from flying apart. In many galaxies, a large amount of unseen dark matter adds extra gravity, making the galaxy hold even tighter together.",,1.0,,,
+response,MS-ESS1-066,1,Llama 3.3 70b,MS-ESS1,recall,,,"Our solar system is part of the Milky Way galaxy. The Milky Way is a big, swirly galaxy that contains hundreds of billions of stars, including our sun. It's called the Milky Way because it looks like a bright, milky path in the sky on a clear night.",,1.0,,,
+response,MS-ESS1-009,1,Nemotron 3 Nano 30ba3,MS-ESS1,recall,,,"Jupiter could hold **about 1,300 Earth‑sized planets** inside it.
+
+**Why?**  
+- Volume is what matters when we ask “how many fit inside.”  
+- Jupiter’s radius is roughly 11 times Earth’s radius.  
+- Since volume grows with the cube of the radius (11³ ≈ 1,331), Jupiter’s volume is about 1,300 times Earth’s.
+
+So if you could scoop up Earth‑sized spheres and pack them together, you could fit roughly one‑thousand‑plus of them inside Jupiter.",,1.0,,,
+response,MS-ESS2-058,3,OSS 20b,MS-ESS2,applied,,,"A river keeps moving because it doesn’t only get its water from today's rain. Water comes from several places that can keep a river busy even when the sky is clear.
+
+**1. Groundwater (water below the surface)**  
+Rain that falls in the catchment area (the land that drains into the river) can seep into the ground. This water moves slowly through the soil and rocks and ends up in underground “reservoirs” called aquifers. The aquifers release this water into the river as a steady trickle. Even if it takes weeks for the water to travel underground, the river will still get a flow called *baseflow*.
+
+**2. Springs**  
+In many places, water emerges naturally at the surface from springs. These springs are fed by the aquifers. The water that appears at a spring keeps the river flowing, especially during dry periods.
+
+**3. Snow or ice melt**  
+In colder regions, snow and ice melt later in the season. The meltwater seesps into the ground and then slowly flows into the river, adding to the baseflow.
+
+**4. Small, hidden rains**  
+Not all rain falls where you can see it. Fog or brief showers can drip onto the ground, seep in, and later join the river.
+
+**5. Stored water in the river channel**  
+The river bed and the floodplain often hold a lot of water. This stored water can be released gradually, keeping the river moving.
+
+So, even when the sky is dry for weeks, the river can keep flowing because of groundwater, springs, meltwater, tiny hidden rains, and the water that is already stored in the river system. That steady source of water is what keeps the river busy.",,1.0,,,
+response,MS-ESS2-053,3,Llama 3.3 70b,MS-ESS2,applied,,,"You would expect the steep mountain stream to erode its banks more quickly. This is because the stream has faster-moving water. The faster water has more energy, which means it can carry more rocks and soil away from the stream's banks. 
+
+When water moves quickly, it can also pick up and move larger rocks and more soil. This helps to wear away the stream's banks faster. In contrast, the slow, wide river has slower-moving water with less energy, so it erodes its banks more slowly.",,1.0,,,
+response,MS-ESS2-061,1,OSS 120b,MS-ESS2,applied,,,"When a cold air mass slides in and pushes the warm air ahead of it, a **cold front** forms.  
+Here’s what usually happens:
+
+1. **Temperature drops quickly** – the air feels much cooler after the front passes.  
+2. **Wind changes direction** – the wind often shifts and can become gusty.  
+3. **Clouds and precipitation** – the warm, moist air is forced upward by the denser cold air. As it rises it cools, forms clouds, and can create rain showers or even thunderstorms.  
+
+So, after a cold front moves through you would most likely notice cooler weather, stronger winds, and a chance of rain or brief thunderstorms.",,1.0,,,
+response,MS-ESS2-032,2,Gemma 3 27b,MS-ESS2,conceptual,,,"This is a cool question! It shows us Earth has changed a lot over time.
+
+Long ago, Antarctica wasn't always frozen. Millions of years ago, it was much warmer and closer to the equator—the area around Earth’s middle. Tropical plants grew there!
+
+Over millions of years, the continents slowly moved (this is called **continental drift**). Antarctica drifted towards the South Pole. As it moved, it got colder and colder, and eventually became covered in ice. 
+
+The plant fossils are evidence that Antarctica *used* to have a warm, tropical climate. They were preserved in rock layers before the ice formed. So, finding those fossils doesn't mean Antarctica was always icy—it means its position on Earth has changed!",,1.0,,,
+response,MS-ESS2-042,2,Nemotron 3 Nano 30ba3,MS-ESS2,conceptual,,,"Air masses are big chunks of air that have almost the same temperature and humidity.  
+The kind of air mass you get depends on the surface it forms over.
+
+**Ocean‑formed air masses**
+
+* **Moisture:** Oceans evaporate a lot of water, so the air that sits on top of them becomes very humid.  
+* **Temperature changes slowly:** Water holds heat better than land, so the temperature of the air doesn’t swing up and down as quickly.  
+* **Result:** This air usually feels damp and cool, and it often brings clouds, fog, or rain.
+
+**Land‑formed air masses**
+
+* **Moisture:** Land has little water, so the air above it stays relatively dry.  
+* **Temperature swings more:** Soil and rock heat up fast in the sun and cool fast at night, so the air temperature can change quickly.  
+* **Result:** This air feels drier and can be hotter or colder compared to ocean air. It often brings clear skies but can also create strong weather like thunderstorms when warm, dry air meets moist air.
+
+**Why they feel different**
+
+When you walk outside, the “feel” of the air is a mix of temperature, humidity, and pressure.  
+Ocean air is usually **cooler and wetter**, so it can feel heavier and more “sticky.”  
+Land air is often **drier and can feel hotter or colder** depending on the season.
+
+In short, the surface underneath—water or land—controls how much moisture and heat the air gets, and that’s why ocean and land air masses feel different.",,1.0,,,
+response,MS-ESS2-042,3,Llama 3.3 70b,MS-ESS2,conceptual,,,"Air masses that form over the ocean feel different from ones that form over land because of the way the sun heats the Earth. When the sun heats the ocean, it warms the water slowly and evenly. This warm water then heats the air above it, making the air warm and humid. 
+
+On the other hand, when the sun heats the land, it warms the ground quickly. This warm ground then heats the air above it, making the air warm and dry. So, air masses that form over the ocean are usually warm and humid, while air masses that form over land are warm and dry. This difference in temperature and humidity is what makes them feel different.",,1.0,,,
+response,MS-ESS2-068,2,OSS 120b,MS-ESS2,recall,,,"**Deposition** is the process where soil, sand, rock fragments, or other material that has been moved by wind, water, ice, or gravity **settles out and builds up** in one place.
+
+Think of it like this: when you sprinkle sand on a table, the grains fall and pile up. In nature, the “sprinkling” is done by moving forces (water, wind, ice) that carry particles, and **deposition** is when those particles stop moving and accumulate.
+
+### How it happens
+1. **A moving force carries material** – a river flows, a wind blows, a glacier slides, or a wave crashes.
+2. **The force loses energy** – the water slows down, the wind calms, the ice melts a little, or the wave recedes.
+3. **The material drops out** – the heavier or larger pieces fall first; finer particles can travel farther before they settle.
+
+### Where you can see deposition
+- **River deltas** – When a river reaches a lake or ocean, it slows down and drops the sand and silt it was carrying, forming a fan‑shaped landform.
+- **Beaches** – Waves bring sand to the shore; when the water’s energy lessens, the sand settles and creates a beach.
+- **Alluvial fans** – At the base of mountains, fast‑flowing streams spread out onto a flat plain, lose speed, and drop their loads, creating a fan‑shaped deposit.
+- **Glacier moraines** – As a glacier moves, it picks up rocks. When the ice melts, the rocks are left behind in piles called moraines.
+- **Desert dunes** – Wind pushes sand grains; when the wind weakens, the grains settle and build up dunes.
+
+### Why deposition matters
+- It builds new landforms that we see on maps.
+- Over long times (millions of years), the piled‑up sediments can become **sedimentary rocks** after they are pressed together and cemented.
+- Deposits can trap useful resources like groundwater, oil, and coal.
+
+### Quick comparison
+| Process | What it does | Example |
+|---------|--------------|---------|
+| **Erosion** | Carries material away | River cutting a canyon |
+| **Transportation** | Moves the material | Wind blowing sand across a desert |
+| **Deposition** | Drops the material and builds up | River delta forming at a river’s mouth |
+
+So, deposition is simply nature’s way of dropping and stacking material when the moving force can’t carry it any farther. This creates many of the features we see on Earth’s surface today.",,1.0,,,
+response,MS-ESS2-092,3,Llama 3.1 8b,MS-ESS2,recall,,,"In geoscience, processes can happen very slowly or very quickly. The main difference between slow and rapid processes is the time it takes for them to happen.
+
+A slow geoscience process is one that takes a very long time, often thousands or even millions of years. This is because the forces or events that cause these processes are weak or happen very gradually.
+
+Example: Plate tectonics is a slow geoscience process. The Earth's plates move about 2-3 centimeters (0.8-1.2 inches) per year. This movement can take thousands of years to cause significant changes, like the creation of mountains or volcanoes.
+
+A rapid geoscience process is one that happens quickly, often in a matter of seconds, minutes, or hours. This is because the forces or events that cause these processes are strong or happen very suddenly.
+
+Example: A landslide is a rapid geoscience process. When rocks or soil slide down a hill, it can happen in just a few seconds. The force of gravity causes the landslide, which is a sudden and quick event.",,1.0,,,
+response,MS-ESS2-017,3,OSS 120b,MS-ESS2,recall,,,"**Convection cell – a “air‑loop” in the sky**
+
+A convection cell is a little loop of air that moves up, then sideways, then down, and then back again.  
+It happens because warm air is lighter than cool air. When the air gets warm it rises, and when it cools it sinks. The rising and sinking create a closed “cell” of circulating air.
+
+### How it works, step by step
+
+1. **Sun heats the ground** – The surface of the Earth gets warm.  
+2. **Air near the ground warms up** – Warm air expands, becomes lighter, and wants to rise.  
+3. **Air rises** – This warm air goes upward into the sky. While it rises it also spreads out (moves sideways) because the atmosphere gets thinner higher up.  
+4. **Air cools aloft** – As the air climbs, it meets lower pressure and expands, which makes it cool.  
+5. **Cool air sinks** – The now‑cool, heavier air falls back toward the ground.  
+6. **Air spreads out near the surface** – The sinking air moves sideways along the ground until it reaches a spot that can be warmed again, and the loop starts over.
+
+When you draw the path, it looks like a round or oval shape—hence the word **cell**.
+
+### Why we care about convection cells
+
+- **Weather:** Many kinds of weather are made by many such cells. A thunderstorm is a small, fast‑moving convection cell.  
+- **Climate belts:** Large‑scale cells (the Hadley, Ferrel, and Polar cells) move heat from the equator toward the poles and help set the Earth’s climate zones.  
+- **Sea breezes:** During the day, land heats faster than the ocean, so air rises over land and cooler air from the sea blows in. That is a tiny convection cell that gives us a refreshing breeze.
+
+### Quick picture
+
+```
+   Warm air ↑
+   ↗      ↖
+  ↗        ↖
+Ground →  → Ground
+  ↘        ↙
+   ↘      ↙
+   Cool air ↓
+```
+
+The arrows show the direction of the moving air in a convection cell.  
+
+So, a convection cell is simply a loop of rising warm air and sinking cool air that constantly circulates, moving heat and moisture around the atmosphere.",,1.0,,,
+response,MS-ESS3-071,1,Nemotron 3 Nano 30ba3,MS-ESS3,applied,,,"Long ago, a sea covered that place. Tiny sea animals and plants died and sank to the bottom. Over millions of years they got buried under layer after layer of mud and sand. That moved sediment turned into rock and squeezed the dead stuff inside.
+
+When rock is deep underground, it gets hot and pressured. The heat and pressure “cooked” the buried organic material and squeezed out oil and natural gas. This oil and gas can move through tiny spaces in the rock and collect in pockets called **reservoirs** underneath a layer of impermeable rock (a rock that won’t let fluids pass through, like shale or salt).
+
+So:
+
+- **Ancient seabed** = lots of dead sea life that can become oil.
+- **Millions of years** = enough time for heat and pressure to turn that material into petroleum.
+- **Geology** = the right kind of rock layers can trap the oil underground.
+- **Location** = building a town on that ancient seabed means the oil is already there, waiting to be found.
+
+In short, places that were once ocean floors often have the right conditions to make and keep oil, making them good targets for drilling.",,1.0,,,
+response,MS-ESS3-037,2,Nemotron 3 Nano 30ba3,MS-ESS3,applied,,,"When a place has a lot of past earthquakes, engineers must make the building able to survive shaking. Here’s how the earthquake data changes the construction:
+
+* **Stronger materials** – Use steel or reinforced concrete instead of plain wood or weak bricks.
+* **Flexible design** – Build the frame so it can bend a little without breaking, like a tree that sways in the wind.
+* **Base isolation** – Put soft rubber or sliding pads under the building so the ground motion doesn’t travel up as much.
+* **Shear walls and braces** – Add extra walls or diagonal supports that keep the building from collapsing sideways.
+* **Redundant load paths** – Make sure if one part fails, other parts can still hold the structure up.
+* **Height limits** – Keep the building low or add special dampers if it must be tall, because taller structures sway more.
+* **Seismic analysis** – Run computer simulations of the recorded earthquakes to see where extra strength is needed.
+
+In short, the historical earthquake data tells engineers to reinforce, make the building flexible, and protect the foundation, so the structure can survive shaking.",,1.0,,,
+response,MS-ESS3-037,1,Mistral Small 3.1,MS-ESS3,applied,,,"To design a building that can withstand strong earthquakes, the engineer should consider the following based on the earthquake data from that region:
+
+1. **Understand the Earthquake Intensity**: Earthquakes are measured using something called magnitude, usually on the Richter scale. If the region has a history of high magnitude earthquakes, the building needs to be stronger.
+2. **Base Isolation**: One way to make buildings safer is to use a technique called base isolation. This means putting special pads or bearings between the building and its foundation. These pads help to absorb and reduce the shaking during an earthquake.
+3. **Dampers**: Engineers can also use devices called dampers. Dampers reduce the energy of the shaking, making the building move less. They are like shock absorbers in a car.
+4. **Reinforcement**: The building should be reinforced with strong materials like steel and concrete. This makes the building sturdy and able to withstand the forces of an earthquake. In particular, engineers need to make sure beams and columns are strong, and walls and frames are properly reinforced.
+5. **Design for Flexibility**: Making the building flexible can help it bend and sway instead of breaking. This can be done by using materials that can stretch and by designing the building with this flexibility in mind.
+6. **Regular Maintenance**: Even with good design, buildings need regular checks to make sure they are still safe. This is especially important in areas with lots of earthquakes.
+7.**Check Building Code**: Use the building codes in that specific region, which are most up to date in engineering design techniques and specific data which can influence construction.
+
+By considering these factors, the engineer can design a building that is more likely to stay safe during an earthquake.",,1.0,,,
+response,MS-ESS3-015,2,Mistral Small 3.1,MS-ESS3,conceptual,,,"Plate tectonics is the movement of the Earth's outer layer, called the lithosphere, which is made up of several large pieces called **tectonic plates.** Here's how it can cause some regions to have more mineral resources:
+
+1. **Volcanic Activity**: When plates move apart or collide, it can create volcanoes. Magma from these volcanoes can cool and solidify to form rocks rich in minerals. For example, copper and gold can be found in rocks formed from cooled magma.
+
+2. **Mountain Formation**: When two plates collide, they can push up mountains. The pressure and heat from this process can create and concentrate mineral deposits. For instance, many gold and silver deposits are found in mountain ranges.
+
+3. **Hydrothermal Vents**: At mid-ocean ridges, where plates are moving apart, water from the ocean seeps down into cracks. This water heats up, reacts with the rocks, and picks up minerals. When it comes back up, it forms **hydrothermal vents** that deposit minerals like copper and sulfur on the seafloor.
+
+4. **Plate Boundaries**: The places where plates meet (plate boundaries) are often where you find more mineral resources. This is because the movement and interaction of the plates can concentrate minerals in these areas.
+
+Examples of regions rich in mineral resources due to plate tectonics include the Colorado Rockies and the Andes mountains, and the mineral-rich country Chile.",,1.0,,,
+response,MS-ESS3-015,3,Mistral Small 3.1,MS-ESS3,conceptual,,,"The Earth's surface is made up of lots of pieces, like a puzzle. These pieces move around very slowly. This movement is called plate tectonics. Here's how it helps create mineral resources:
+
+1. **Volcanoes**: When two plates move apart, magma (molten rock) from deep inside the Earth can come up to the surface. This can form volcanoes. As the magma cools down, it can create minerals and rocks rich in metals, like copper or gold.
+
+2. **Mountains**: When two plates push together, they can create mountains. As the plates collide, the rocks inside them get squeezed and heated. This can create mineral deposits. For example, many gold and silver mines are found in mountain ranges.
+
+3. **Hydrothermal vents**: These are like hot springs on the ocean floor. They form when water seeps down into the cracks in the ocean plates, gets heated by the magma, and then comes back up. This hot water can carry minerals from deep inside the Earth and leave them on the ocean floor.
+
+4. **Weathering and erosion**: Over time, wind, water, and other natural forces can wear down rocks and carry away small bits of minerals. These minerals can then settle in other places, creating new deposits.
+
+So, regions that have had lots of volcanic activity, mountain-building, or other plate tectonic action in the past may have more mineral resources.",,1.0,,,
+response,MS-ESS3-028,3,Gemma 4 31b,MS-ESS3,conceptual,,,"Burning fossil fuels—like coal, oil, and natural gas—releases a gas called **carbon dioxide** (CO2) into the air. This gas is part of a group called **greenhouse gases**.
+
+To understand how this works, imagine the Earth is wrapped in a giant blanket of these gases. This blanket is called the **greenhouse effect**. 
+
+Here is the step-by-step process:
+
+1. **Sunlight enters:** The sun sends energy to Earth as light. This light passes through the atmosphere and warms the ground.
+2. **Heat tries to leave:** The Earth then tries to send some of that heat back out into space.
+3. **The blanket traps heat:** Greenhouse gases like carbon dioxide act like a filter. They let sunlight in, but they stop some of the heat from escaping. 
+
+When we burn fossil fuels, we add more carbon dioxide to the atmosphere. This makes the ""blanket"" thicker. Because the blanket is thicker, it traps more heat instead of letting it escape into space. This extra trapped heat causes the average temperature of the entire planet to rise, which is why we call it **global warming**.",,1.0,,,
+response,MS-ESS3-003,1,Gemma 4 31b,MS-ESS3,recall,,,"The word **tsunami** comes from the Japanese language. ""Tsu"" means harbor and ""nami"" means wave. Together, it means ""harbor wave.""
+
+A tsunami is not just one big wave, but a series of giant ocean waves. In the deep ocean, these waves are small, but as they reach shallow water near the coast, they slow down and grow very tall.
+
+Tsunamis are usually caused by a sudden, massive movement of water. The most common causes include:
+
+*   **Undersea Earthquakes:** When two tectonic plates (giant slabs of rock under the Earth's crust) shift or snap, they push the water above them upward. This creates a ripple that travels across the ocean.
+*   **Landslides:** When a huge amount of rock or ice falls into the ocean, it pushes the water out of the way, creating a wave.
+*   **Volcanic Eruptions:** An underwater eruption or the collapse of a volcano into the sea can trigger a tsunami.",,1.0,,,
+response,MS-ESS3-089,3,Nemotron 3 Nano 30ba3,MS-ESS3,recall,,,"**Erosion** is the process that wears away rocks and soil. Water, wind, ice, and gravity can all move the ground material from one place to another.
+
+**How erosion can expose mineral deposits**
+
+1. **Breaks rock apart** – When water or wind hits a rock repeatedly, it cracks and splits the rock into smaller pieces.
+2. **Carries away the loose pieces** – These pieces are carried off, leaving the deeper layers of rock exposed.
+3. **Reveals hidden layers** – The layer that was once covered by many feet of rock is now visible at the surface.
+4. **Shows minerals** – In many places, the exposed rock contains minerals (like iron, copper, or gold). Once the overlying material is removed, those minerals become visible.
+
+Think of a sandcastle: when you wash it away, the sand that was hidden under other sand or water shows up. Erosion works the same way, but on a much larger, slower scale. By stripping away the top layers, erosion can bring mineral-rich rock to the surface where we can find and collect it.",,1.0,,,
+response,MS-ESS3-006,2,OSS 20b,MS-ESS3,recall,,,"An **indicator species** is a plant, animal, or other living thing that tells scientists how healthy an environment is.  
+
+* Why it matters?  
+  * If the indicator species is doing well, the area is probably in good shape.  
+  * If the species starts to disappear or become sick, it can warn us that something is wrong—like pollution, loss of habitat, or climate change.
+
+* How it works  
+  * Indicator species usually have special needs that are easy to see.  
+  * For example, a type of mussel that lives only in clean rivers will disappear when the water gets dirty. When that mussel is gone, we know the river is polluted.
+
+* Common examples  
+  * **Bats** in forests: If many bats are still there, the forest has enough trees and insects.  
+  * **Damselflies** in ponds: A healthy pond will have many damselflies; fewer damselflies can mean algae or chemicals are bad.  
+  * **Honeybees** in farmland: Lots of honeybees mean the crops are healthy and there is good nectar. Fewer bees can hint at pesticide problems.
+
+* Why we use them  
+  * They help scientists spot problems early, before a whole ecosystem collapses.  
+  * Monitoring indicator species is cheaper and faster than testing every single plant and animal.
+
+So, an indicator species is a “warning light” for the environment. Watching it helps keep our natural world safe and healthy.",,1.0,,,
+response,MS-ETS1-057,3,Mistral Small 3.1,MS-ETS1,applied,,,"A graph is like a picture that shows how two things are related. In this case, the graph shows how far the marshmallow goes depending on the design of the catapult. Here's how it helps:
+
+1. **X-axis (horizontal)**: This shows the different versions of your catapult. Maybe you number them, like version 1, version 2, and so on.
+
+2. **Y-axis (vertical)**: This shows how far the marshmallow went with each version. The higher up the point is, the farther it went.
+
+3. **Points on the graph**: Each point represents the distance a marshmallow flew with a specific catapult design.
+
+To find the optimal design, look for the point that is highest on the graph. This point shows the version of your catapult that launched the marshmallow the farthest. The optimal design is the one that makes your catapult work best, which in this case means launching the marshmallow the farthest. So, the highest point on your graph will help you decide which design is best.",,1.0,,,
+response,MS-ETS1-038,2,Nemotron 3 Nano 30ba3,MS-ETS1,applied,,,"The truss design better meets the strength criterion.
+
+**Why?**  
+- The criterion is how much weight a bridge can hold before it fails.  
+- The triangular truss held twice as much weight as the flat bridge, so it shows greater strength.
+
+**How the test tells you this:**  
+1. Both bridges are made from the same materials (index cards and tape), so differences in strength come only from their shapes.  
+2. You add weight gradually until the bridge breaks or collapses.  
+3. The bridge that can support the most weight before breaking wins the test.  
+4. Because the truss survived twice the load, the test shows its shape gives it more strength.
+
+So, testing by actually loading the bridges is the way to see which design truly meets the strength goal.",,1.0,,,
+response,MS-ETS1-070,1,Llama 3.3 70b,MS-ETS1,applied,,,"The test result shows that the filter isn't working well. The murky output means that the gravel and sand layers aren't removing all the tiny particles from the water. This tells the student that the filter needs to be improved to catch smaller particles. 
+
+One possible change is to add a layer that can trap even smaller particles, like activated charcoal or a finer material like clay. Another option is to use more layers or thicker layers of the same materials to give the water more time to pass through and be cleaned. The student can try these changes to see if they make the filter work better.",,1.0,,,
+response,MS-ETS1-077,1,Granite 3.3 Instruct,MS-ETS1,conceptual,,,"A design that works well in a lab may not function as expected in the real world because of some key differences. 
+
+1. **Controlled vs. Unpredictable Environments**: Labs are controlled, meaning scientists carefully set conditions like temperature, humidity, or light. In the real world, these factors can change constantly, affecting how a design performs.
+
+2. **Scale**: Lab designs often start as small prototypes. Scaling them up to real-world size can introduce new challenges, like increased weight, material stress, or resistance.
+
+3. **User Interaction**: In a lab, designs are often tested without human interaction. Real-world solutions are meant for people, and user behavior can be unpredictable, causing wear and tear or misuse.
+
+4. **External Factors**: Real-world environments come with external factors such as weather, wildlife, or other natural occurrences that lab conditions generally don't replicate.
+
+5. **Cost and Resources**: Lab settings have access to specific resources and cost isn't usually a concern. Real-world solutions must be made within certain budget and resource constraints.
+
+These differences show why a lab-perfect solution might need adjustments for successful real-world application.",,1.0,,,
+response,MS-ETS1-073,1,OSS 20b,MS-ETS1,conceptual,,,"When you test a design, you want to know **exactly why** something changes.  
+If you change more than one thing at once, you can’t tell which change caused the result.
+
+**Why it matters**
+
+1. **Isolate the cause** – If you change one part while all the others stay the same, any difference you see comes from that one part.
+
+2. **Make clear conclusions** – You can write a note: “Changing the shape of the lid made the bottle hold more liquid.” If you had also changed the color, you wouldn’t know which change mattered.
+
+3. **Avoid confusion** – If you change many things and the design works better, you might think the right change was made, but it could have been another part.
+
+4. **Plan better fixes** – Knowing which single change fixes a problem lets you design the next version more accurately.
+
+**Example**
+
+A student is building a paper airplane.  
+- First, they change only the wing length. They notice the plane flies farther.  
+- Next, they change only the paper weight. It flies less.  
+Now they know each part affects the flight differently.
+
+If they had changed both wing length and paper weight at the same time, they would not know which change caused the improvement or decline.
+
+So, changing only one thing at a time helps you learn clearly and design better.",,1.0,,,
+response,MS-ETS1-028,1,Mistral Small 3.1,MS-ETS1,conceptual,,,"A model is a simplified version of something real, like a car, a bridge, or a river. Engineers use models to test and learn things before building the real thing. Sometimes a model fails a test. Even then, it can still be useful in several ways:
+
+1. **Learning from mistakes**: When a model fails, it shows what doesn't work. This helps engineers know what to avoid or change in the real design.
+
+2. **Finding weak spots**: A failed test can show where the design is weak. This helps engineers make improvements.
+
+3. **Comparing ideas**: Engineers might create several models to compare different ideas. Even if one model fails, it can show that the others might work better.
+
+4. **Understanding how things work**: Sometimes, a model helps engineers understand the problem better, even if it doesn't work perfectly.
+
+5. **Communication**: Engineers can use failed models to show other people, like clients or team members, why a certain design won't work.
+
+Even when a model fails, it gives engineers valuable information to make better designs. This is why they often say that failure is a part of learning and improving.",,1.0,,,
+response,MS-ETS1-009,2,Nemotron 3 Nano 30ba3,MS-ETS1,recall,,,"Testing every design under the same conditions makes the comparison fair.  
+
+- **Same starting point:** If each design is exposed to the identical amount of sunlight, water, temperature, etc., differences in results come from the design itself, not from outside factors.  
+- **Eliminates bias:** Random changes in the environment (like one batch getting more rain) could make one design look better or worse for the wrong reason. Keeping conditions equal prevents that bias.  
+- **Clear cause‑and‑effect:** When only the design varies, you can directly link any performance differences to specific features of the design (shape, material, placement, etc.).  
+- **Accurate conclusions:** Results that are not influenced by extra variables let you draw trustworthy conclusions about which design works best.  
+
+So, equal conditions let scientists get reliable, comparable data and decide which design is truly better.",,1.0,,,
+response,MS-ETS1-019,2,Mistral Small 3.1,MS-ETS1,recall,,,"The purpose of collecting data during design testing is to find out if your design works as you expect. Here's why it's important:
+
+1. **Check if it meets the criteria**: You probably designed your project to meet certain goals or criteria. Data helps you see if you've met them.
+2. **Find out what works and what doesn't**: Data can show you the strengths and weaknesses of your design. This way, you know what to keep and what to change.
+3. **Make informed decisions**: With data, you can make decisions based on evidence, not just guesses. This makes your design process more reliable.
+4. **Learn and improve**: Even if your design doesn't work as expected, data can help you understand why. Then you can go back and improve your design.
+
+For example, if you're testing a bridge design, you might collect data on how much weight it can hold before it breaks. This tells you if your bridge is strong enough, or if you need to make changes to your design. Also, data might tell you where the bridge is faltering.
+
+Data comes from measurements and observations. You can use tools like rulers, scales, timers, or even cameras to collect data. Sometimes, you can just write down what you see!",,1.0,,,
+response,MS-ETS1-008,2,OSS 120b,MS-ETS1,recall,,,"**Iterative design process** means designing something by repeating a set of steps over and over until it works well.
+
+1. **Plan** – Think about what you want to create and write down ideas.  
+2. **Make a prototype** – Build a quick, simple version (a model, a sketch, a computer mock‑up).  
+3. **Test it** – Try it out yourself or let others use it. Notice what works and what doesn’t.  
+4. **Learn from the test** – Write down the problems you saw and ideas for fixes.  
+5. **Improve** – Change the design to fix the problems, then go back to step 2.
+
+Because you **repeat** (iterate) these steps, each cycle makes the product a little better. The word *iterative* just means “doing the same thing again and again, each time improving it.”  
+
+**Example:** Imagine you want to design a new school backpack.  
+* First you draw a sketch (plan).  
+* Then you sew a simple bag from cheap fabric (prototype).  
+* You wear it for a day and notice the straps dig into your shoulders (test).  
+* You write down that the straps need padding (learn).  
+* You add padding and sew another version (improve), then test again.  
+
+You keep looping until the backpack is comfortable, sturdy, and looks good. That looping cycle is the iterative design process.",,1.0,,,
+response,MS-LS1-041,2,Mistral Small 3.1,MS-LS1,applied,,,"When you accidentally touch a hot stove, two body systems work together to make you pull your hand away quickly:
+
+1. **Nervous System**: This is like your body's messaging system. It has special cells called neurons that carry messages between your brain and the rest of your body. When you touch something hot, these neurons send a pain message to your brain very quickly.
+
+2. **Muscular System**: This system is made up of all the muscles in your body. Once your brain gets the pain message, it sends a message back telling your muscles to contract or tighten. This makes you pull your hand away from the hot stove.
+
+So, the nervous system tells your brain about the pain, and the muscular system helps you move your hand away. This all happens super fast, which is why you pull your hand away almost instantly.",,1.0,,,
+response,MS-LS1-068,2,OSS 20b,MS-LS1,applied,,,"The plant that receives light and water will grow larger.
+
+- **Sunlight** lets the plant make food. Sunlight is needed for photosynthesis, a process that turns water and carbon dioxide into sugars. Sugars give the plant energy to build new cells.  
+- **Water** is essential for many functions. It carries minerals from the soil to every part of the plant and helps cells expand to make the plant bigger.  
+- The dark closet plant has almost no light, so it cannot do much photosynthesis. It is also getting little water, so it cannot grow strong cells or move nutrients efficiently.
+
+Because the sunny, watered plant can produce food and keep its tissues hydrated, it will grow taller, wider, and have more leaves than the plant kept in darkness with little water.",,1.0,,,
+response,MS-LS1-053,3,Nemotron 3 Nano 30ba3,MS-LS1,applied,,,"When you exercise, your muscles work harder. To keep moving, they need energy, and they use the food you ate earlier as fuel.  
+
+**How food gives you energy**  
+- The body breaks down food into a simple sugar called glucose.  
+- Glucose travels in the blood to cells, especially muscle cells.  
+- Inside the cells, glucose is “burned” with oxygen to produce energy, and this chemical reaction also makes heat.
+
+**Why you feel warm**  
+- The chemical reaction that turns glucose into energy isn’t 100 % efficient. About 70 % of the energy becomes heat instead of movement.  
+- As your muscles contract faster and more often, they make more of these reactions, so more heat is produced.  
+- Your body needs to stay around a steady temperature (about 98.6 °F or 37 °C). The extra heat from exercising is carried by the blood to the surface of your skin, where it can be released into the air. That’s why you feel warm and may start to sweat.
+
+**What you ate matters**  
+- Foods that contain carbohydrates (like bread, fruit, or pasta) give the most glucose for quick energy.  
+- Fats and proteins also provide energy, but they are used more slowly.  
+- If you haven’t eaten enough of the right foods before exercising, your body may run out of fuel, feel tired faster, and still produce heat, making the feeling of warmth even more noticeable.
+
+**In short**: Exercising makes your muscles work harder, which burns the food‑derived glucose for energy. The burning process creates extra heat, and your body releases that heat to keep your temperature steady, so you feel warm afterward.",,1.0,,,
+response,MS-LS1-029,1,Gemma 4 31b,MS-LS1,conceptual,,,"Your eyes blink automatically because of something called a **reflex**. A reflex is a fast, automatic response by your body to protect you from danger without needing to think about it.
+
+When something flies toward your face, your eyes and brain work together in a very fast loop:
+
+1. **Detection:** Your eyes see the object moving toward you.
+2. **The Signal:** Your brain instantly recognizes that the object is a threat. It sends a lightning-fast signal to the muscles in your eyelids.
+3. **The Action:** The eyelid muscles contract, snapping your eyes shut.
+
+This happens much faster than a normal decision. If you had to think, ""Oh, there is a bug flying at me; I should probably close my eyes,"" the bug would already be inside your eye! By using a reflex, your body protects your vision and prevents injury before you even realize what is happening.",,1.0,,,
+response,MS-LS1-016,3,Mistral Small 3.1,MS-LS1,conceptual,,,"Great question! Your body is like a big team with different players, each having a special job.
+
+If your body had only one type of cell, it's like having a soccer team where every player has to do every job: kick the ball, guard the goal, coach the team, and even sell snacks at half-time! That wouldn't work very well, would it?
+
+Hooray, your body is clever! Different types of cells have them to do special jobs. Some cells carry oxygen from your lungs to the rest of your body. Others help you digest food. Some fight germs that make you sick. Others help you see, hear, and think.
+
+Each cell type is good at its job. Working together, they keep your body running smoothly. The brain is that bossy coach of that team and it tells all the cells what to do/how to do it.  Nerve cells are responsible for this communication. They send messages from the brain to all the other parts of the body. Without them, none of the body's different types of cells could know what they are supposed to be doing.
+
+This division of labor is called ""specialization."" It makes your body efficient and good at many things. Just like how your soccer team has a goalkeeper, midfielders, and forwards, your body has different cells for different tasks. This is what makes your body such a amazing machine!",,1.0,,,
+response,MS-LS1-066,2,OSS 120b,MS-LS1,conceptual,,,"**1. Getting the CO₂ into the leaf**  
+- The tiny openings on a leaf’s surface are called **stomata** (singular: stoma).  
+- When the plant needs carbon, the stomata open and let **carbon dioxide (CO₂)** from the air slip inside the leaf.
+
+**2. Turning CO₂ into food**  
+- Inside the leaf are tiny “kitchen” structures called **chloroplasts**.  
+- Chloroplasts contain a green pigment called **chlorophyll** that captures sunlight.  
+- Using the energy from sunlight, chloroplasts mix CO₂ with water (taken up through the roots) in a process called **photosynthesis**.  
+- The basic chemical recipe is:  
+
+  \[
+  \text{CO₂} + \text{H₂O} \xrightarrow{\text{light}} \text{Glucose (a sugar)} + \text{O₂}
+  \]
+
+- Glucose is the plant’s food. It stores the carbon atoms that came from the CO₂.
+
+**3. Changing food into plant parts**  
+- The plant can use glucose right away to make **energy** (for growth, repair, etc.).  
+- It can also reshape glucose into larger, tougher molecules such as **cellulose** (the main material in cell walls) and **starch** (energy storage).  
+- These carbon‑rich molecules become the solid parts of leaves, stems, roots, and flowers.
+
+**4. Moving the food around**  
+- Some glucose stays in the leaf, but most is shipped to other parts of the plant through tiny tubes called **phloem**.  
+- The phloem carries the sugar to stems, roots, and new leaves.  
+- Once there, the sugar is again turned into structural molecules (cellulose, lignin, etc.) that make up the plant’s tissues.
+
+**5. Result: carbon becomes part of the plant**  
+- The carbon atoms that started as invisible CO₂ in the air are now hidden inside the plant’s cells, forming the fibers and structures that give leaves their shape and stems their strength.
+
+So, in short:  
+1. CO₂ enters the leaf through stomata.  
+2. Chloroplasts use sunlight to change CO₂ + water into glucose.  
+3. The plant reshapes glucose into building blocks like cellulose.  
+4. These building blocks travel through the phloem and become the solid material of leaves, stems, and other parts.  
+
+That’s how the carbon from the air ends up as part of the plant itself.",,1.0,,,
+response,MS-LS1-094,2,Llama 3.3 70b,MS-LS1,recall,,,"The body is made up of many different parts, like the heart, lungs, and muscles. Each of these parts is like a small system that works on its own. But they also work together to keep the whole body healthy and functioning properly. 
+
+These small systems are called subsystems. They interact, or work together, to do things like move your body, digest food, and fight off sickness. For example, the heart subsystem pumps blood, the lung subsystem brings in oxygen, and the muscle subsystem helps you move. All these subsystems work together to keep you alive and healthy. 
+
+So, when we say the body is a system of interacting subsystems, we mean that it's made up of many smaller parts that work together to make the whole body work.",,0.0,,,
+response,MS-LS1-058,3,Gemma 4 31b,MS-LS1,recall,,,"Two examples of environmental factors that affect plant growth are **sunlight** and **water**.
+
+**1. Sunlight**
+Plants use sunlight to make their own food through a process called **photosynthesis**. If a plant does not get enough light, it cannot produce enough energy to grow. It may become stunted or grow very tall and skinny as it ""stretches"" to find a light source.
+
+**2. Water**
+Water is necessary for a plant to transport nutrients from the soil up into its leaves. It also helps the plant stay upright. If a plant has too little water, it will wilt and dry out. However, too much water can drown the roots by cutting off their access to oxygen.",,1.0,,,
+response,MS-LS1-083,3,Mistral Small 3.1,MS-LS1,recall,,,"The type of tissue that covers the outside of the body and lines many internal organs is called **epithelial** tissue (pronounced ep-i-thee-lee-ul).
+
+Epithelial tissue acts like a protective cover. It helps to protect the body from germs, keeps moisture from escaping, and allows some organs to move smoothly against each other. There are different types of epithelial tissue, but they all have cells that are tightly packed together.
+
+For example, the skin on the outside of your body is made of epithelial tissue. Inside your body, epithelial tissue lines your lungs, stomach, and blood vessels, among other things.",,1.0,,,
+response,MS-LS2-042,3,Gemma 3 27b,MS-LS2,applied,,,"If all the plants in a pond died, the fish would have much less energy available. Here's why:
+
+Plants make their own food using sunlight through a process called **photosynthesis**. This makes them **producers** – they *produce* food! 
+
+Fish don’t make their own food. They get energy by eating plants or by eating animals that eat plants. This makes them **consumers** – they *consume* food.
+
+So, plants are the base of the pond's food chain. If the producers (plants) disappear, the consumers (fish) lose their main energy source. Many fish would likely die, and the rest would struggle to find enough food to survive.",,1.0,,,
+response,MS-LS2-055,2,Granite 3.3 Instruct,MS-LS2,applied,,,"The plan that restores the natural sand dunes with native grasses is better for maintaining both shoreline protection and biodiversity. 
+
+A seawall is a strong barrier made of concrete or rocks that is built perpendicular to the shoreline. While it provides excellent protection against erosion by absorbing the impact of waves, it can cause problems in the long run. Since it blocks direct wave contact with the land, there is less sand deposited on the beach, which leads to beach shrinkage and loss of habitat for coastal species.
+
+On the other hand, sand dunes act as natural barriers against storms and erosion. They absorb the impact of waves before they reach the land, reducing the erosion effect. When these dunes are maintained with native grasses, they become even more effective. Native grasses have deep roots that help hold the sand in place and increase the dune's stability. 
+
+Moreover, these restored dunes support a diverse array of species. They provide habitat, food, and nesting grounds for various plants and animals. Seawalls, with their hard, unforgiving surfaces, support much less biodiversity. 
+
+So, while a seawall might seem like the best immediate solution because it offers a solid, straightforward method of protection, the dune restoration plan is better for maintaining a healthy, dynamic coastal ecosystem over time.",,1.0,,,
+response,MS-LS2-041,1,Llama 3.3 70b,MS-LS2,applied,,,"If an oil spill kills most of the phytoplankton, it will affect the krill and whales. Phytoplankton are the main food source for krill. Without phytoplankton, krill will have less food to eat. This means the krill population will likely decrease. 
+
+Whales eat krill, so if there are fewer krill, whales will have less food to eat too. This can make the whales hungry and weak. It may even cause some whales to leave the area or die. So, the oil spill can hurt not just the phytoplankton, but also the krill and whales that depend on them for food.",,1.0,,,
+response,MS-LS2-059,3,Granite 3.3 Instruct,MS-LS2,conceptual,,,"The relationship between predator and prey populations rising and falling together is often described by a cycle called the ""predator-prey cycle."" This cycle occurs due to the interaction between two types of animals: the prey, which are eaten by the predators, and the predators, which rely on the prey for food.
+
+When the prey population increases, there's plenty of food for predators. With more food, the predator population can grow too. But as the predator number rises, there are more predators to eat the prey, which makes the prey population start to decrease. 
+
+Now, when the prey gets scarcer, the predators have a harder time finding food. This causes the growth in their population to slow down, and eventually, their numbers start to drop. Fewer predators mean the prey population can rebound because there's less pressure on them from predators. 
+
+So, in summary, as the prey population grows, the predator population increases due to abundant food, leading to a fall in the prey population. As the prey declines, the predator population decreases due to food shortage, allowing the prey to recover and start the cycle over again. 
+
+This cycle is a fundamental concept in ecology and was first mathematically described by Alfred J. Lotka and Vito Volterra in the early 20th century.",,1.0,,,
+response,MS-LS2-090,2,Granite 3.3 Instruct,MS-LS2,conceptual,,,"A lack of water, or drought, significantly affects the size of a plant population in a desert in a few key ways:
+
+1. **Less Growth**: Plants need water for a process called photosynthesis, which turns sunlight into food. Without enough water, plants can't grow as large or as quickly.
+
+2. **Lower Survival Rate**: With less water, it's harder for seeds to germinate and for young plants to survive. This means fewer new plants are added to the population each year, reducing the overall population size.
+
+3. **Increased Competition**: In a dry environment, the water plants do get also becomes a precious resource. This can cause intense competition among plants, with stronger, more established ones taking over resources from weaker ones. This might lead to a dominance by fewer, hardier species, further shrinking the variety within the plant population.
+
+4. **Changing Distribution**: Some plants might die off in certain areas due to lack of water, causing the population to shrink in those areas. On the other hand, certain drought-resistant species might thrive in these conditions, potentially increasing in other parts of the desert.
+
+So, a lack of water can lead to a smaller plant population in a desert, which might be made up of fewer, more hardy species, and distribute unevenly across the desert landscape.",,1.0,,,
+response,MS-LS2-091,1,Nemotron 3 Nano 30ba3,MS-LS2,conceptual,,,"Water is the lifeblood of every plant. When there isn’t enough water, several things happen:
+
+1. **Plants lose water faster than they can take it in.**  
+   - They keep losing moisture through tiny pores called stomata.  
+   - If the soil is dry, roots can’t replace that loss.
+
+2. **The plant starts to wilt.**  
+   - Cells lose water, shrink, and the leaves droop.  
+   - The plant looks limp and may turn a lighter green.
+
+3. **Photosynthesis slows down or stops.**  
+   - Plants use water to move nutrients and to help turn sunlight into food.  
+   - Without enough water, they can’t make enough sugar for energy.
+
+4. **Growth stops.**  
+   - New leaves, stems, or roots need water to split and expand.  
+   - With little water, growth slows or halts completely.
+
+5. **Fruits, flowers, or seeds may be lost.**  
+   - Even if a plant survived the drought, it may not have enough energy to make reproductive parts.  
+   - This means fewer berries, nuts, or seeds for animals that eat them.
+
+6. **The whole ecosystem feels the impact.**  
+   - Animals that rely on those plants for food or shelter may have less to eat or live in.  
+   - When a plant dies, it can’t provide the shade or moisture that other plants need, which can make the area even drier.
+
+7. **Soil can become compacted and lose organic matter.**  
+   - Dry soil cracks and hardens, making it hard for roots of other plants to grow.  
+   - Without plants, the soil can erode more easily, further reducing water retention.
+
+In short, a lack of water stresses plants, prevents them from growing or reproducing, and can ripple through the whole ecosystem, affecting animals and the landscape itself.",,1.0,,,
+response,MS-LS2-086,1,Llama 3.1 8b,MS-LS2,recall,,,"An energy pyramid is a diagram that shows how energy moves through an ecosystem. It's like a pyramid with different levels, each representing a different group of living things.
+
+The pyramid starts with the producers at the bottom. Producers are plants and some types of bacteria that make their own food using sunlight. They're at the bottom because they're the ones that start the energy flow.
+
+The next level up is the primary consumers. These are animals that eat the producers. They're called primary consumers because they eat the producers directly.
+
+The next level up is the secondary consumers. These are animals that eat the primary consumers. They're called secondary consumers because they eat the animals that eat the producers.
+
+The top of the pyramid is usually the tertiary consumers. These are animals that eat the secondary consumers. They're called tertiary consumers because they eat the animals that eat the animals that eat the producers.
+
+The pyramid is called ""energy"" because it shows how energy moves from one group to another. As you go up the pyramid, the amount of energy decreases. This is because some of the energy is lost as heat or used for other things like movement and growth.
+
+The pyramid helps us understand how energy flows through an ecosystem and how different groups of living things are connected.",,1.0,,,
+response,MS-LS2-010,3,OSS 120b,MS-LS2,recall,,,"**Limiting factor** – a thing that stops a population or a whole ecosystem from getting bigger or working better.
+
+In nature, organisms need things like food, water, space, sunlight, shelter, and the right temperature.  
+If any one of those things is in short supply, it becomes a *limiting factor*.
+
+- **Food** – If there isn’t enough food, animals can’t reproduce as fast.  
+- **Water** – In a desert, lack of water limits the number of plants that can grow.  
+- **Sunlight** – Under a thick canopy, only shade‑loving plants survive; the light limits the rest.  
+- **Space** – Too many animals in a small area means they run out of room to live and breed.  
+- **Temperature or oxygen** – If it gets too hot, too cold, or the air lacks enough oxygen, many organisms can’t survive.
+
+Limiting factors can be **abiotic** (non‑living, like temperature or minerals) or **biotic** (living, like predators or disease). When a factor limits growth, the ecosystem may reach its *carrying capacity*—the maximum number of organisms it can support.
+
+So, a limiting factor is any resource or condition that is insufficient and therefore restricts how many organisms can live or how well the ecosystem works.",,1.0,,,
+response,MS-LS2-057,3,Granite 3.3 Instruct,MS-LS2,recall,,,"Carrying capacity is the maximum number of individuals of a particular species that an environment can support over a long period of time. It's like the maximum load a vehicle can carry. If the population exceeds this number, the environment becomes overstrained and unable to sustain that population in the long run. This can lead to resource shortages, increased competition, and higher chances of disease. For example, a forest can only produce so much food for deer, so its carrying capacity for deer is the number that can be fed without the forest's resources being depleted.",,1.0,,,
+response,MS-LS3-038,2,OSS 20b,MS-LS3,applied,,,"When a rose bush is grown from a cutting, the cutting is a tiny piece of that one plant.  
+Because it comes from the same plant, all the new bushes are **genetically almost identical** to the champion plant.  
+So most of them will produce flowers that look very much like the champion’s flowers.
+
+A few things can change a little:  
+
+* **Somatic mutations** – the cells in a cutting can sometimes pick up tiny genetic changes that were not in the original plant.  
+* **Growing conditions** – soil, light, water, and temperature can affect how the genes are expressed, so the color might look slightly different.  
+* **Age of the cutting** – very young cuttings can show different colors until they mature.
+
+For the most part, the garden center’s rose bushes will produce the same color flowers as the champion plant, but a handful might look a little different due to these small factors.",,1.0,,,
+response,MS-LS3-056,1,Nemotron 3 Nano 30ba3,MS-LS3,applied,,,"A gene is like a set of instructions that tells a cell how to make a protein.  
+Many digestive proteins are enzymes – they cut up big food molecules into small pieces that the body can use.  
+
+If a mutation changes the DNA in the gene that makes one of these enzymes, the enzyme may:
+
+* **Work slower** – it can’t cut food as fast, so digestion takes longer.  
+* **Make the wrong shape** – the enzyme’s “active site” (the part that grabs the food) no longer fits the food molecule, so it can’t break it down.  
+* **Stop working altogether** – the enzyme may be useless, leaving that food undigested.
+
+Because the person can’t break down that specific food, the undigested material stays in the gut. This can cause:
+
+* Gas, bloating, or pain  
+* Diarrhea or loose stools  
+* Poor absorption of nutrients from that food  
+
+For example, if the mutation affects the enzyme that breaks down lactose (the sugar in milk), the person may become lactose‑intolerant and need to avoid dairy. The effect depends on which enzyme is faulty and how severe the mutation is.",,1.0,,,
+response,MS-LS3-040,2,Llama 3.3 70b,MS-LS3,applied,,,"No, you wouldn't expect all 50 offspring to look exactly the same. When two genetically different parents reproduce, they mix their genes together. This mixing of genes is called genetic variation. 
+
+As a result, each offspring gets a unique combination of genes from their parents. This means that each offspring can have different traits, like color, size, or shape, even if they have the same parents. 
+
+So, the 50 offspring might look similar, but they will likely have some differences. This genetic variation is what makes each living thing unique, even if they are related.",,1.0,,,
+response,MS-LS3-046,1,OSS 120b,MS-LS3,conceptual,,,"In a gene the four DNA bases—A, T, C and G—are arranged in a long line.  
+The exact order of those bases is the **code** that tells the cell how to build a protein.
+
+---
+
+### 1. The code is read in groups of three  
+When a cell makes a protein it first copies the gene into messenger RNA (mRNA).  
+The mRNA is read three bases at a time. Each three‑base group is called a **codon**.  
+
+*Example:*  
+`AUG` → the start codon, tells the cell to begin a protein.  
+`UUU` → codes for the amino‑acid phenylalanine.  
+
+There are 64 possible codons (4³), and each one tells the cell which of the 20 amino‑acids to add next.
+
+---
+
+### 2. Amino‑acids are linked into a chain  
+A protein is just a long chain of amino‑acids that folds into a specific shape.  
+The shape determines what the protein can do—enzymes that cut sugar, proteins that carry oxygen, structural fibers, etc.
+
+If the order of codons changes, the order of amino‑acids changes, and the protein’s shape can be altered.
+
+---
+
+### 3. Small changes can have big effects  
+* **No change:** If the base order stays the same, the same protein is made.  
+* **Silent change:** Sometimes a different base still makes the same amino‑acid, so the protein is unchanged.  
+* **Missense change:** One base changes a codon so a different amino‑acid is inserted. The protein may work less well or not at all.  
+* **Nonsense change:** A change creates a stop codon, ending the protein early. The resulting protein is usually non‑functional.  
+* **Frameshift mutation:** Inserting or deleting bases shifts the reading frame, so every codon after that point is read incorrectly. The protein becomes garbled.
+
+---
+
+### 4. Why the order matters for the “right” protein  
+Think of a protein like a necklace where each bead is an amino‑acid.  
+If you swap even one bead, the necklace may no longer fit the clasp or may look wrong.  
+Similarly, the cell needs the exact sequence of amino‑acids to fold the protein correctly and perform its job.
+
+So the order of bases in a gene is crucial because it sets the order of codons, which sets the order of amino‑acids, which determines the protein’s final shape and function. If the order is wrong, the protein can be weak, malfunction, or be completely useless.",,1.0,,,
+response,MS-LS3-017,1,Mistral Small 3.1,MS-LS3,conceptual,,,"Mutations are changes in the DNA sequence of a chromosome. Chromosomes are structures inside cells that contain genes, which are like instruction manuals for building and running an organism. We usually have two copies of each chromosome, one from each parent.
+
+When parents make babies, they don't just mix all their DNA together. Instead, they pass down one copy of each chromosome to their offspring. This happens during a process called reproduction. If a mutation is present on one of the chromosomes that gets passed down, then the offspring will inherit that mutation.
+
+For example, let's say a parent has a mutation on a specific gene in one of their chromosomes. When they have a baby, there's a chance they'll pass down that mutated chromosome. The baby will then have that mutation in their DNA. That's why mutations can be passed down from parents to their offspring. Because mutations usually are found in sporadically (not always), most folks only have a 50% chance of passing down a mutation to their offspring, assuming their other chromosome isn't mutated.",,1.0,,,
+response,MS-LS3-089,1,OSS 120b,MS-LS3,conceptual,,,"**Why two parents make more variety**
+
+1. **Each parent gives half a set of DNA**  
+   – DNA is the instruction book for a living thing.  
+   – It is organized into **chromosomes** (think of them as a stack of pages).  
+   – A species has a certain number of chromosomes; each parent has a *pair* of each one.  
+   – When a child is made, it gets **one chromosome from mom and one from dad** for every pair.  
+
+2. **Mix‑and‑match of the pages**  
+   – The mom’s chromosome may have different versions of a gene (called **alleles**) than the dad’s.  
+   – The child receives a random mix of mom’s and dad’s alleles.  
+   – This shuffling creates a new combination that neither parent had exactly.
+
+3. **Cross‑over during making of eggs and sperm**  
+   – Before the chromosomes are passed on, they often swap small pieces in a process called **cross‑over**.  
+   – This further mixes the genetic material, like cutting two strings of beads and tying the pieces together.
+
+4. **Independent assortment**  
+   – The pairs of chromosomes line up randomly when eggs or sperm are made.  
+   – Which half of each pair goes into a particular egg or sperm is a matter of chance.  
+   – So every egg or sperm is a different lottery ticket.
+
+5. **Result: many possible offspring**  
+   – If a species has 20 pairs of chromosomes, the number of possible combinations from independent assortment alone is 2²⁰ (over a million).  
+   – Adding cross‑over makes the number astronomically larger.
+
+6. **Why this matters over time**  
+   – A population with many different genetic combinations is called **genetically diverse**.  
+   – Diversity gives the species many “options” to deal with changes, such as new diseases or climate shifts.  
+   – Some individuals may have a combination that helps them survive better; they live longer and have more babies.  
+   – Over many generations, the traits that work well become more common.  
+
+**In short:** Having two parents means each child receives a unique blend of DNA from both sides, plus extra mixing during egg‑ and sperm‑formation. This creates far more genetic variety than a single parent could produce, and that variety helps the species adapt and thrive over time.",,1.0,,,
+response,MS-LS3-014,3,Llama 3.1 8b,MS-LS3,recall,,,"When we say that two offspring are genetically identical, it means that they have the same DNA (genetic material) inside their cells. Think of DNA like a set of instructions for making a person. 
+
+Imagine you have a recipe for making your favorite cookie. If two people have the same recipe, they'll make the same cookie. In the same way, if two offspring have the same DNA, they'll have the same genetic traits and characteristics.
+
+Genetic identity means that they'll look the same, have the same eye color, hair color, and even the same height and weight. They'll also be more likely to have the same health conditions and be resistant to the same diseases.
+
+However, it's worth noting that even if two offspring are genetically identical, they can still be different in some ways. For example, they might have different birthmarks or scars, or even different experiences and environments that can shape who they become as individuals.",,1.0,,,
+response,MS-LS3-008,2,Gemma 3 27b,MS-LS3,recall,,,"Ultraviolet (UV) radiation from the sun can cause mutations. 
+
+**Mutations** are changes to an organism's DNA. DNA holds the instructions for building and operating living things.
+
+UV radiation is a type of energy. When UV light hits your skin, it can damage the DNA in your skin cells. This damage can cause a change in the DNA sequence – a mutation! Sometimes these mutations are harmless, but sometimes they can lead to problems like skin cancer.",,1.0,,,
+response,MS-LS3-014,3,Mistral Small 3.1,MS-LS3,recall,,,"When offspring are **genetically identical**, it means they have **exactly the same** genetic information (called DNA). This is like having the same set of instructions for how to build and run a body.
+
+There are a few ways this can happen:
+- **Cloning**: This is when a new organism is created from a single cell of the original organism. The clone is genetically identical to the original.
+- **Twinning (in some animals, including humans)**: Sometimes, an embryo splits into two identical parts, creating **identical twins**. These twins are genetically identical because they came from the same original cell.
+
+Genetic information is passed down from parents to offspring. When offspring are genetically identical, they have the same genes as their ""parent."" Genes are like recipes that tell your body how to grow and work. If two organisms are genetically identical, they have the same recipes. Even small differences in these recipes can make your appearance and characteristics different.",,1.0,,,
+response,MS-LS4-029,2,Llama 3.3 70b,MS-LS4,applied,,,"This pattern supports the idea that these animals shared a common ancestor. A long time ago, their ancestors were the same species, but over millions of years, they evolved into different species. 
+
+The fact that their embryos look alike at first shows that they have similar starting points in their development. As they grow, small differences in their genes cause them to develop differently, resulting in the unique features of each species. This is an example of divergent evolution, where a single species splits into two or more different species over time. 
+
+It's like a tree branching out - the trunk represents the common ancestor, and the branches represent the different species that evolved from it. The embryos are like the roots of the tree, showing that they all came from the same starting point.",,1.0,,,
+response,MS-LS4-035,3,Gemma 4 31b,MS-LS4,applied,,,"Over the next few generations, the average milk production of the herd will likely **increase**.
+
+This happens because of a process called **selective breeding**. The rancher is choosing the parent with the ""best"" trait (high milk output) and ensuring that trait is passed down to the offspring. Since the bull has the genes for high milk production, his calves are more likely to inherit those same genes.
+
+However, there is a downside to this method. Because the rancher used only one bull for the entire herd, the **genetic diversity** decreases. Genetic diversity is the variety of different genes within a population. When animals are too similar genetically, the herd may become more susceptible to diseases or health problems.",,1.0,,,
+response,MS-LS4-034,2,Granite 3.3 Instruct,MS-LS4,applied,,,"The plant with the genetic variation that allows its roots to grow much deeper is more likely to survive and produce seeds. This is because deeper roots can access water stored in lower soil layers, giving the plant a better chance to find enough water in dry conditions. The other plant, with shallower roots, might struggle to find moisture and could wilt or die. In this scenario, adaptability, as provided by the genetic variation, gives the deeper-rooted plant an advantage for survival and reproduction.",,1.0,,,
+response,MS-LS4-062,2,Llama 3.3 70b,MS-LS4,conceptual,,,"Fossils of ancient whales with small leg bones are important evidence that modern whales are related to land animals. A long time ago, whales lived on land and had four legs, just like other mammals. Over time, their bodies changed to adapt to living in the water. 
+
+Their legs got smaller and less useful, but they didn't completely disappear. The small leg bones in ancient whale fossils show that whales used to walk on land. This means that whales and land animals shared a common ancestor, or a common relative, a long time ago.
+
+As whales evolved to live in the water, their bodies changed to help them swim and dive. Their front legs turned into flippers, and their back legs became smaller and less noticeable. But the fossils of ancient whales with small leg bones prove that whales are connected to land animals through their shared history. This connection is an example of evolution, which is the process of how living things change over time to adapt to their environments.",,1.0,,,
+response,MS-LS4-038,2,Gemma 4 31b,MS-LS4,conceptual,,,"Scientists use the fossil record like a giant history book. To figure out if a species went extinct, they look for three main clues:
+
+**1. The ""Last Appearance""**
+Scientists search through layers of rock. Older rocks are usually at the bottom, and newer rocks are at the top. If they find fossils of a dinosaur in the bottom layers but suddenly stop finding them in the newer layers, it suggests the species disappeared.
+
+**2. Wide Sampling**
+Scientists don't stop after looking in one place. They search different continents and different types of rock. If they search all over the world and still cannot find any new fossils of that species in more recent layers, it is a strong sign the species is gone.
+
+**3. The Gap in Time**
+Scientists look for a ""gap."" If a species was common for millions of years and then completely vanishes from the record without any descendants (related species) taking its place, they conclude it went extinct.
+
+**Summary:** If a species is found in old rocks but is missing from all newer rocks across the entire planet, scientists determine it is extinct.",,1.0,,,
+response,MS-LS4-093,1,OSS 120b,MS-LS4,conceptual,,,"Scientists say that whales and people are “related” because they share a very old common ancestor.  
+When we talk about relatives in biology, we are not looking at how they look now, but at how their bodies and their DNA have changed over millions of years.
+
+### 1. DNA tells the story  
+All living things keep a record of their history in their DNA (the genetic code inside every cell).  
+When scientists compare the DNA of a human with the DNA of a whale, they find many of the same genes and the same patterns of DNA letters. The more DNA that matches, the more recent the common ancestor. Humans and whales share about **80 % of the same protein‑coding genes**, which shows they branched off from the same family tree a long time ago.
+
+### 2. Inside the body, not just the outside  
+Even though a whale is huge and lives in the ocean and a human is small and lives on land, their internal skeletons have similar parts:
+
+* **Four‑chambered heart** – both pump blood the same way.  
+* **Spine with the same regions** (neck, back, tail).  
+* **Forelimb bones** – a whale’s front flipper has the same bone arrangement (humerus, radius, ulna, wrist and finger bones) that a human arm has. Those bones are called *homologous* because they came from the same structure in an ancient ancestor.
+
+### 3. Fossil clues  
+Scientists have found fossils of ancient mammals that look a bit like a mix between a land animal and a marine animal. One famous example is **Pakicetus**, a small, wolf‑like creature that lived about 50 million years ago. Its skeleton shows it could walk on land, but its inner ear and teeth already look a lot like those of early whales. Over millions of years those land‑living animals gradually changed—growing longer flippers, a streamlined body, and a blowhole—until they became the whales we see today.
+
+### 4. Development (embryos)  
+If you look at very early whale embryos, they have a tiny “tail” and even a set of tiny hind‑limb buds that disappear later. Human embryos also have a tail at first, which later shrinks to become the coccyx (the little bone at the base of our spine). These shared steps in early development point to a common ancestor.
+
+### 5. How “different” happens  
+After the common ancestor split into two lines—one leading to land mammals (including humans) and one leading to whales—each line lived in very different environments. Natural selection then made each group adapt to its own world. Whales grew a thick layer of blubber, a tail fluke, and a blowhole for breathing underwater. Humans kept upright walking, large brains, and hands for tool use. Those adaptations make them look very different today, but the deeper clues (DNA, bones, fossils, embryos) stay the same.
+
+---
+
+**In short:** Whales and humans look unlike each other because they have been changing for millions of years in different places. The DNA, internal skeleton, fossils, and early‑development patterns show that far back in time they shared a common ancestor, so scientists call them distant relatives.",,1.0,,,
+response,MS-LS4-014,1,Llama 3.3 70b,MS-LS4,recall,,,"A heritable trait is a characteristic that is passed down from parents to their offspring through genes. Genes are like instructions that are inside the cells of our body, and they determine things like eye color, hair color, height, and other features.
+
+When parents pass their genes to their children, they are passing on the instructions for these traits. This means that children can inherit traits like blue eyes or curly hair from their parents.
+
+Examples of heritable traits include:
+
+* Eye color
+* Hair color
+* Height
+* Skin color
+* Freckles
+
+These traits are determined by the genes we inherit from our parents, and they can be passed down from generation to generation.",,1.0,,,
+response,MS-LS4-056,2,OSS 20b,MS-LS4,recall,,,"In biology, a **population** is all the people, animals, or plants of the same species that live in a particular area.  
+A **trait** is a characteristic that can be seen or measured—like eye colour, height, or a leaf shape.
+
+**Frequency** is a way of saying how often a particular trait appears in that population. It is a number that tells us:
+
+* How many individuals have the trait, compared with the whole group.  
+* The proportion of the whole group that has the trait.
+
+Scientists usually express frequency as a fraction, a percentage, or a number out of 100 or 1,000.  
+For example, if 30 out of 100 people in a town have blue eyes, the frequency of the blue‑eye trait is 30 %. If 3 out of 100 have a rare flower colour, the frequency is 3 %.  
+
+So, when scientists talk about the “frequency of a trait,” they mean how common or how rare that trait is in the population.",,1.0,,,
+response,MS-LS4-002,1,OSS 120b,MS-LS4,recall,,,"**Relative dating** is a way scientists figure out whether one fossil is older or younger than another, without knowing the exact number of years.
+
+### How it works
+
+1. **Layers of rock (strata)**  
+   - Earth’s surface is made of many thin layers of sediment (sand, mud, ash).  
+   - Over time new layers pile on top of older ones.  
+   - **Principle of superposition:** In an undisturbed sequence, the deeper a layer is, the older it is.
+
+2. **Fossils in the layers**  
+   - When an animal or plant dies, its remains can become a fossil in the layer where it fell.  
+   - Because the layer is dated by its position, the fossils in that layer get the same relative age.
+
+3. **Index fossils**  
+   - Some species lived for only a short, well‑known time but were widespread (e.g., trilobites, ammonites).  
+   - Finding an index fossil in a rock tells you that the rock is about the same age as the time that species existed.
+
+4. **Faunal succession**  
+   - Fossil groups appear and disappear in a predictable order through the rock record.  
+   - If you see the same sequence of fossils as in another place, you can match the layers and know which is older or younger.
+
+### What relative dating does **not** give you
+
+- It doesn’t tell you the exact number of years (that’s what **absolute dating** does, using things like carbon‑14 or uranium‑lead).
+- It only lets you say “this fossil is older than that one” or “these two fossils are about the same age.”
+
+### Quick example
+
+- Imagine three rock layers: Layer A (bottom), Layer B (middle), Layer C (top).  
+- Layer A contains a trilobite fossil, Layer B has a fern fossil, Layer C has a dinosaur bone.  
+- Because A is deepest, the trilobite is the oldest. The dinosaur bone in C is the youngest.  
+
+So, relative dating helps scientists build a timeline of life on Earth by comparing the positions of rocks and the fossils they hold.",,1.0,,,
+response,MS-PS1-082,1,Nemotron 3 Nano 30ba3,MS-PS1,applied,,,"Each water molecule has 3 atoms: 2 hydrogen (H) and 1 oxygen (O).  
+So 3 water molecules have:
+
+- Hydrogen atoms: 2 × 3 = 6  
+- Oxygen atoms: 1 × 3 = 3  
+
+**Total atoms = 6 + 3 = 9 atoms.**",,1.0,,,
+response,MS-PS1-041,2,OSS 120b,MS-PS1,applied,,,"When a nail rusts, the iron in the nail reacts with oxygen from the air (and a little water).  
+The main rust reaction looks like this:
+
+\[
+4\,\text{Fe} \;+\; 3\,\text{O}_2 \;\rightarrow\; 2\,\text{Fe}_2\text{O}_3
+\]
+
+**What does this mean?**  
+Four atoms of iron combine with three molecules of oxygen to make iron‑oxide (rust).  
+The iron atoms were already in the nail. The oxygen atoms come from the air and “stick” to the iron.
+
+Because oxygen has mass (about 16 g per mole) the rust that forms is heavier than the same amount of pure iron. In fact, iron‑oxide (Fe₂O₃) is about 1.8 times heavier than the iron that turned into it.
+
+So, **if all of the rust stays on the nail**, the total weight of “nail + rust” will be a little **more** than the weight of the original clean nail.
+
+In the real world, some rust flakes off and falls away. If that happens, the piece you pick up might weigh less because you lost some of the material. But chemically, rust adds mass, so a completely rusted nail that keeps all its rust would weigh a bit more than it did at the start.",,1.0,,,
+response,MS-PS1-040,1,Llama 3.1 8b,MS-PS1,applied,,,"When a piece of wood burns, it's not that mass is destroyed, but rather that the wood changes into different forms. The wood is made up of molecules that contain carbon, oxygen, and other elements. When it burns, these molecules react with oxygen in the air to form new molecules, such as carbon dioxide and water vapor.
+
+The key word here is ""mass."" Mass is a measure of how much ""stuff"" is in an object, and it can't be created or destroyed. What happens in a chemical reaction like burning wood is that the molecules are rearranged, but the total mass of the wood doesn't change.
+
+The ash left behind is actually the remains of the wood, but it's in a different form. The ash is made up of the inorganic parts of the wood, like minerals, that didn't burn up. So, the ash still has mass, but it's much lighter than the original log because most of the wood's mass was converted into gases like carbon dioxide and water vapor, which you can't see.
+
+Think of it like this: Imagine you have a bunch of LEGO blocks, and you take them apart and reassemble them into a different shape. The total number of LEGO blocks doesn't change, but the shape and arrangement of the blocks do. That's kind of like what happens when wood burns – the molecules are rearranged, but the total mass stays the same.",,0.0,,,
+response,MS-PS1-024,2,OSS 120b,MS-PS1,conceptual,,,"**What does “closed, sealed container” mean?**  
+A closed container is one that has no holes. A sealed container is closed tightly so that nothing can get in or out. Together they make a **closed system** – a space that can’t exchange matter with the outside world.
+
+**What is the law of conservation of mass?**  
+It says that in an ordinary chemical reaction the total amount of matter (mass) stays the same. Atoms are only rearranged; they are not created or destroyed.
+
+**Why does the container help us see this?**
+
+1. **No mass can sneak away.**  
+   If the reaction takes place in an open beaker, some gases could escape, or dust could fall in. Then the mass we measure before and after would be different, but we wouldn’t know whether the change is because of the reaction or because material left or entered the system.
+
+2. **All the reactants and products stay inside.**  
+   Because the container is sealed, every atom that was in the reactants must still be inside after the reaction finishes. The only thing that can change is how the atoms are grouped together (new molecules, gases, solids, etc.).
+
+3. **We can weigh the whole container.**  
+   We put the empty container on a balance, record its mass, then add the reactants and weigh it again. After the reaction is complete we weigh the sealed container a third time. If the mass after the reaction is the same as the mass before the reaction (within the accuracy of the balance), we have shown that no mass was lost or gained.
+
+4. **It isolates the reaction.**  
+   By keeping the environment out, the experiment removes other possible sources of error—like air currents blowing away a light gas or moisture being absorbed. The only thing happening inside the container is the chemical change.
+
+**Putting it together:**  
+Because a sealed container prevents any matter from entering or leaving, any change we see in the mass must come from the reaction itself. When the measured mass stays the same, we have direct evidence that the total mass of the reactants equals the total mass of the products. That is exactly what the conservation‑of‑mass law predicts.",,1.0,,,
+response,MS-PS1-061,3,Llama 3.3 70b,MS-PS1,conceptual,,,"A ball-and-stick model is a tool that helps scientists show the shape of a molecule. The balls represent atoms, and the sticks represent the bonds between them. 
+
+Imagine a molecule like a tiny LEGO structure. The balls are like the LEGO blocks, and the sticks are like the connections between the blocks. By using different colored balls, scientists can show which atoms are which. For example, a red ball might represent an oxygen atom, and a blue ball might represent a carbon atom.
+
+The sticks show how the atoms are connected. A single stick represents a single bond between two atoms, while a double stick represents a double bond. This helps scientists understand the molecule's shape and how the atoms are arranged. 
+
+By looking at a ball-and-stick model, scientists can see the molecule's overall shape, which can give them clues about how it behaves and how it interacts with other molecules. It's a simple but powerful tool for understanding the tiny world of molecules.",,1.0,,,
+response,MS-PS1-026,2,OSS 120b,MS-PS1,conceptual,,,"**What’s inside an instant cold pack?**  
+Most packs have two separate chambers. One side holds water. The other side holds a solid salt – most often **ammonium nitrate** (sometimes urea or calcium ammonium nitrate). The two chambers are kept apart by a thin plastic film.
+
+**How do you “activate” it?**  
+When you squeeze, hit, or break the pack, the film cracks. The water and the solid salt mix together.
+
+**What happens when the salt meets the water?**  
+The salt **dissolves**. Dissolving is a kind of chemical change called a **solution**. To break the solid salt into individual ions (charged particles) and to let those ions spread through the water, energy is needed. That energy is taken from the surroundings—in this case, from the pack itself and from the skin touching it.
+
+Because the energy needed is **more** than the energy released when the ions get surrounded by water molecules, the overall process *absorbs* heat. A process that takes in heat is called **endothermic**. 
+
+**Where does the heat go?**  
+The heat is pulled out of the pack and from anything touching the pack. That makes the pack feel very cold, often dropping to about 0 °C (32 °F) or lower. The cold lasts until the salt is completely dissolved and the temperatures equalize again.
+
+**In short:**  
+1. You break the inner barrier.  
+2. Water mixes with a solid salt.  
+3. The salt dissolves and needs extra energy.  
+4. The needed energy comes from the pack and your skin.  
+5. The pack becomes cold without ever being in a freezer.
+
+That’s all the chemistry needed to give you a quick, portable ice‑like chill! (After use, the pack can’t be reused because the water‑salt solution is already formed.)",,1.0,,,
+response,MS-PS1-001,1,OSS 120b,MS-PS1,recall,,,"A chemical formula is a short way of writing what a molecule or a compound is made of. It tells you two main things:
+
+1. **Which elements are present** – each element is represented by its chemical symbol (H for hydrogen, O for oxygen, Na for sodium, etc.).
+
+2. **How many atoms of each element are in one “unit” of the substance** – the number is shown as a small subscript after the symbol. If there is no subscript, it means there is just one atom of that element.
+
+**Examples**
+
+* **H₂O** – The formula for water. “H” is hydrogen, “O” is oxygen. The subscript “2” after H tells us there are two hydrogen atoms, and the single O tells us there is one oxygen atom.
+
+* **CO₂** – The formula for carbon dioxide. One carbon atom (C) and two oxygen atoms (O₂).
+
+* **NaCl** – Table salt. One sodium atom (Na) and one chlorine atom (Cl).
+
+Sometimes the formula also hints at how the atoms are linked together, but the basic purpose is to list the types of atoms and their counts. This lets chemists know the composition of a substance at a glance.",,1.0,,,
+response,MS-PS1-009,3,Mistral Small 3.1,MS-PS1,recall,,,"Polyester is a type of plastic used to make fabrics and other materials. It's made from something called petroleum, which is a type of oil found deep underground. Here's a simple breakdown of the process:
+
+1. **Petroleum**: It starts as petroleum waste, which is a thick, black, sticky liquid left over from making gasoline and other products.
+2. **Crude oil**: The petroleum waste is first broken down into smaller molecules to create what is called crude oil, which may be heated and treated with a strong acid-forming a substance called terephthalic acid.
+3. **Purification**: The terephthalic acid is then purified or cleaned to remove any unwanted bits.
+4. **Polyester Production**: The purified terephthalic acid is then mixed with a substance called ethylene glycol. When these two substances are combined and heated, they react with each other to form a new substance called polyethylene terephthalate, or PET for short. This PET is then spun into long, thin fibers to make polyester fabric and thread.
+
+So, in short, polyester is made from a type of oil called petroleum, through a series of heating, treating, and spinning processes.",,1.0,,,
+response,MS-PS1-001,2,Llama 3.3 70b,MS-PS1,recall,,,"A chemical formula tells you what elements are in a substance and how many atoms of each element are present. It's like a recipe for a molecule. The formula uses letters and numbers to show the type and number of atoms. For example, the formula for water is H2O. This means that one molecule of water has two hydrogen atoms (H) and one oxygen atom (O).",,1.0,,,
+response,MS-PS2-044,2,OSS 120b,MS-PS2,applied,,,"When two objects touch each other, they always exert forces on each other that are **equal in size and opposite in direction**. This is Newton’s third law of motion: *for every action, there is an equal and opposite reaction*.
+
+So if cart A pushes on cart B with a force of **20 newtons (N)**, cart B pushes back on cart A with the same magnitude:
+
+**Force from B on A = 20 N**, but it points in the opposite direction to the force from A on B. 
+
+The two forces form an action‑reaction pair. They don’t cancel each other out because they act on different carts, not on the same one.",,1.0,,,
+response,MS-PS2-053,2,Gemma 3 27b,MS-PS2,applied,,,"Magnets have an invisible area around them called a **magnetic field**. This field is what causes them to push or pull on other magnets. This push or pull is called **magnetic force**.
+
+When you move two magnets farther apart, the magnetic force between them gets *weaker*. The farther away they are, the weaker the force becomes. 
+
+Think of it like this: the magnetic field gets spread out over a larger space. Less of the field reaches the other magnet, so the effect is smaller.",,1.0,,,
+response,MS-PS2-092,2,Mistral Small 3.1,MS-PS2,applied,,,"When a bowling ball hits a pin and slows down, it's because the pin exerted a force on the ball. This force changed the ball's motion, which is described by a physics law called *Newton's Third Law of Motion*. This law states that *for every action, there is an equal and opposite reaction*. So, when the ball hits the pin:
+
+1. **Action**: The bowling ball exerts a force on the pin.
+2. **Reaction**: The pin exerts a force back on the bowling ball.
+
+The fact that the ball slows down shows that the pin's force was in the opposite direction to the ball's motion. The bigger the change in the ball's speed, the bigger the force the pin exerted on the ball. This is similar to how, when you throw a ball against a wall, the  wall pushes the ball back towards you.",,1.0,,,
+response,MS-PS2-041,2,Llama 3.1 8b,MS-PS2,conceptual,,,"A compass needle points north because of the Earth's magnetic field. The Earth acts like a huge magnet, with a north and south magnetic pole. The compass needle is made of a special material that is also magnetic. 
+
+When you hold the compass, the needle is free to move. It wants to align itself with the Earth's magnetic field, which is strongest near the magnetic poles. Since the Earth's south magnetic pole is near the North Pole on our map, the compass needle points towards it.
+
+This means the needle is drawn towards the Earth's magnetic north pole, even when it's not touching anything else magnetic. It's like the needle is following a invisible force that's guiding it towards the Earth's magnetic field.",,0.0,,,
+response,MS-PS2-023,1,OSS 20b,MS-PS2,conceptual,,,"When you push on something, you are giving it a **force**.  
+The other person (or the wall) pushes back with a force that is the same size but in the opposite direction.  
+This is called “Newton’s third law”: for every action there is an equal and opposite reaction.
+
+The important point is that the two forces act **on different objects**:
+
+* You push on the wall.  
+* The wall pushes on you.
+
+Because the forces are on different objects, they do not cancel each other out on the same object.  
+Each object has its own “net force” (the sum of all forces acting on it). If the only forces on a body are an equal and opposite pair, the net force on that body is zero:
+
+```
+Net force on the wall = 0
+Net force on you      = 0
+```
+
+Newton’s second law says that a body moves (accelerates) only when its net force is not zero.  
+Since the net force on the wall is zero, the wall does not move.  
+Since the net force on you is zero, you feel the push but do not accelerate.
+
+So the object doesn’t move because the equal and opposite forces cancel out the net force on that object. The forces simply make the other person (or wall) feel a push, but they don’t make the object itself go anywhere.",,0.0,,,
+response,MS-PS2-043,3,Llama 3.1 8b,MS-PS2,conceptual,,,"A magnetic field is invisible, so we can't see it directly. But there are ways to tell that a magnetic field exists. Here are a few:
+
+1. **Magnets attract paper clips**: If you bring a magnet close to a paper clip, the magnet will attract the paper clip. This shows that the magnet has a magnetic field, and the paper clip is responding to it.
+2. **Compass needle moves**: If you put a compass near a magnet, the compass needle will move. This is because the magnetic field of the magnet is interacting with the magnetic field of the compass.
+3. **Magnetic field lines**: You can draw magnetic field lines around a magnet using a compass or a special tool. These lines show the direction of the magnetic field.
+4. **Iron filings react**: If you sprinkle iron filings near a magnet, the filings will align themselves with the magnetic field. This creates a pattern that shows the shape of the magnetic field.
+
+These methods help us detect the presence of a magnetic field, even though we can't see it.",,1.0,,,
+response,MS-PS2-087,1,Nemotron 3 Nano 30ba3,MS-PS2,recall,,,"**Two forces that can act without touching are:**
+
+1. **Gravity** – It pulls objects toward each other. Earth’s gravity pulls everything (you, a ball, the moon) down without any contact.
+
+2. **Magnetic force** – Certain metals and magnets can attract or repel each other from a distance. A magnet can pull a paperclip toward it even though they aren’t touching. 
+
+Both forces work through space, not through physical contact.",,1.0,,,
+response,MS-PS2-080,1,OSS 120b,MS-PS2,recall,,,"The electric force between two charged objects is given by **Coulomb’s law**:
+
+\[
+F = k \frac{q_1 \, q_2}{r^{2}}
+\]
+
+* **F** = force (how strong the pull or push is)  
+* **k** = a constant (just a number that makes the units work)  
+* **q₁** and **q₂** = the amounts of charge on the two objects  
+* **r** = the distance between the objects  
+
+From the formula you can see that the force depends on the **product** of the two charges.  
+If you keep everything else the same (the distance *r* and the charge on the other object), and you **increase the charge on one object**, the product \(q_1 q_2\) gets larger.  
+
+Because the force is directly proportional to that product, the electric force **gets larger in the same proportion**.  
+For example, if you double the charge on one object, the force also doubles. If you triple that charge, the force triples, and so on.
+
+So, increasing the amount of charge on one of the objects makes the electric force between them stronger.",,1.0,,,
+response,MS-PS2-012,2,OSS 120b,MS-PS2,recall,,,"Weight is the force that gravity pulls on an object.  
+The standard unit for measuring that force is the **newton** (symbol N).
+
+- 1 newton is the amount of force needed to give a 1‑kilogram mass an acceleration of 1 meter per second each second (1 N = 1 kg·m/s²).  
+
+In everyday life you may also hear weight given in **pounds** (lb) in the United States, but in science the newton is the official unit.  
+
+So, when we talk about the weight (gravitational force) of something, we measure it in newtons.",,1.0,,,
+response,MS-PS3-055,3,Llama 3.3 70b,MS-PS3,applied,,,"When the skateboarder rolls down the ramp, energy is being transferred to the skateboarder. This energy is called kinetic energy, which is the energy of motion. 
+
+As the skateboarder goes down the ramp, they gain speed. This means they are gaining kinetic energy. The energy comes from the potential energy the skateboarder had at the top of the ramp. Potential energy is the energy something has because of its position or height. 
+
+So, the skateboarder's potential energy is being converted into kinetic energy as they roll down the ramp. This is why they speed up.",,1.0,,,
+response,MS-PS3-047,2,Gemma 4 31b,MS-PS3,applied,,,"If you stretch the rubber band farther, the amount of potential energy **increases**.
+
+This is called **elastic potential energy**. This is the energy stored in an object when it is stretched or compressed. 
+
+Think of it like this: the more you pull the rubber band, the more work your muscles have to do to stretch it. That work is stored as energy inside the band. When you let go, the rubber band snaps back because it wants to release all that stored energy. The farther you stretch it, the more energy it has to release, which is why a more stretched rubber band flies faster and farther!",,1.0,,,
+response,MS-PS3-045,2,OSS 20b,MS-PS3,applied,,,"When two magnets with the same pole (both north) are pressed together, they push away from each other.  
+To bring them closer you have to overcome this repulsion, so you do work on the magnets.
+
+That work is stored in the magnetic field as **potential energy**.  
+As the magnets get closer, the amount of potential energy that must be supplied (and therefore stored) keeps growing. In other words, the system’s potential energy **increases** as the two north poles approach each other. If you then let go, that stored energy can turn into motion, and the magnets will push apart.",,1.0,,,
+response,MS-PS3-035,3,Gemma 3 27b,MS-PS3,conceptual,,,"A swing slows down and stops because of something called **friction**. 
+
+Friction is a force that opposes motion – it works against the swing moving. There are two main types of friction at play here:
+
+* **Air resistance:** As the swing moves through the air, the air pushes *against* it, slowing it down.
+* **Friction at the pivot:** Where the swing chains connect to the frame, there's friction. The chains rubbing against the metal slows things down too.
+
+Even though these forces are small, they are *always* working. Over time, they take energy away from the swing until it doesn't have enough energy left to keep going, and it stops.
+
+Think of it like this: you give the swing energy when you push it. Friction takes that energy away, bit by bit.",,1.0,,,
+response,MS-PS3-016,3,OSS 120b,MS-PS3,conceptual,,,"**What is kinetic energy?**  
+Kinetic energy is the energy something has because it’s moving.  
+The faster it moves, the more kinetic energy it has.
+
+**How do we calculate it?**  
+Scientists use a simple formula:
+
+\[
+\text{Kinetic Energy (KE)} = \frac12 \times \text{mass} \times \text{speed}^2
+\]
+
+- **mass** is how much stuff the object contains (for a car, it’s basically its weight).  
+- **speed** is how fast the car is traveling.  
+- The “\( \text{speed}^2 \)” part means we **square** the speed: multiply the speed by itself.
+
+**Why does a slow car have less KE than a fast car of the same size?**
+
+1. **Same size ⇒ same mass.**  
+   If the two cars are the same model, they have about the same mass, so the “½ × mass” part of the formula is the same for both.
+
+2. **Speed matters a lot because it’s squared.**  
+   The only thing that changes between the two cars is the speed.  
+   Since the speed is squared, even a small increase in speed makes a big increase in KE.
+
+   - Example:  
+     - Car A goes 10 m/s (about 22 mph).  
+       KE = ½ m × (10)² = ½ m × 100 = 50 m (units of energy).  
+     - Car B goes 20 m/s (about 45 mph).  
+       KE = ½ m × (20)² = ½ m × 400 = 200 m.  
+
+   Car B is only twice as fast, but its kinetic energy is **four times** larger because 20² = 400 while 10² = 100.
+
+3. **So the faster car stores more energy in motion.**  
+   When you brake, that extra energy has to be taken away, which is why stopping a fast car takes more work (or more heat in the brakes).
+
+**In short:**  
+For cars of the same size (same mass), the amount of kinetic energy they have depends mostly on how fast they’re moving. Because the speed is squared in the formula, a faster car ends up with a lot more kinetic energy than a slower one.",,1.0,,,
+response,MS-PS3-016,3,Mistral Small 3.1,MS-PS3,conceptual,,,"Kinetic energy is the energy an object has because it's moving. The faster an object moves, the more kinetic energy it has.
+
+The formula for kinetic energy is: ***KE = 1/2 * m * v^2***
+
+*KE* is kinetic energy, *m* is mass (which is related to size), and *v* is velocity ( speed in a specific direction).
+
+Notice that velocity is squared in the formula. This means that if you double the speed of a car, its kinetic energy quadruples! So, a fast-moving car has much more kinetic energy than a slow-moving car of the same size. Even though they have the same mass, the faster car's speed makes a big difference in its kinetic energy.",,1.0,,,
+response,MS-PS3-008,2,OSS 120b,MS-PS3,recall,,,"**Radiation** is one of the three ways heat can move from one place to another.  
+
+### How it works
+- Every object that has a temperature above absolute zero (‑273 °C) gives off **energy in the form of tiny waves**.  
+- These waves are called **electromagnetic radiation**. Most of the heat we feel is carried by the **infrared part** of that spectrum.  
+- The waves travel **through empty space**, so nothing has to touch the hot object for the heat to move.
+
+### Everyday examples
+- **Sunlight:** The Sun’s surface is millions of degrees, but the heat reaches Earth because the Sun’s radiation travels through the vacuum of space.
+- **Feeling warm near a fire:** Even if the air is cool, you feel heat because the fire’s infrared radiation reaches your skin.
+- **A warm road at night:** A car parked on a hot road will get warmer even if the air is cool, because the road radiates heat toward the car.
+
+### How it’s different from the other ways heat moves
+| Method | What’s needed for the heat to travel | Example |
+|--------|--------------------------------------|---------|
+| **Conduction** | Direct contact (molecules bump into each other) | A metal spoon getting hot in a pot of soup |
+| **Convection** | Moving fluid (air or liquid) that carries heat | Warm air rising from a heater |
+| **Radiation** | No medium required; energy moves as waves | Sun’s heat reaching Earth |
+
+### Key points to remember
+- Radiation does **not need air, water, or any material** to get from one place to another.
+- All objects radiate heat, but hotter objects emit more and at shorter wavelengths.
+- We can feel radiation as warmth, and we can also see it as visible light when it’s energetic enough (like the glow of a light bulb).
+
+So, in short, **radiation is the transfer of heat energy through invisible waves that can travel through empty space**. It’s how we get warmth from the Sun, a campfire, or even a hot sidewalk.",,1.0,,,
+response,MS-PS3-006,1,Gemma 3 27b,MS-PS3,recall,,,"Conduction is how heat moves through things, especially solids. Think of it like a chain reaction!
+
+Everything is made of tiny particles that are always jiggling. When you heat something up, those particles move *faster*. 
+
+When fast-moving particles bump into slower-moving particles, they give them some of their energy. This makes the slower particles move faster too. This keeps happening down the line – the heat gets passed from one particle to the next. 
+
+That's conduction! Metals are really good at conducting heat because their particles are close together and can easily pass energy along. That’s why a metal spoon gets hot when you stir something warm.",,1.0,,,
+response,MS-PS3-003,1,Gemma 4 31b,MS-PS3,recall,,,"In the context of kinetic energy, **mass** is the amount of matter in an object. You can think of it as how ""heavy"" an object is, though scientists use mass instead of weight because mass stays the same regardless of where the object is (like on Earth or the Moon).
+
+Kinetic energy is the energy an object has because it is moving. Mass is one of the two main things that determine how much kinetic energy an object has.
+
+Here is how mass affects energy:
+
+1.  **More Mass = More Energy:** If two objects are moving at the exact same speed, the one with more mass will have more kinetic energy. For example, a bowling ball rolling at 5 mph has much more energy than a ping-pong ball rolling at 5 mph.
+2.  **Harder to Stop:** Because an object with more mass has more kinetic energy, it is harder to stop. This is why a heavy truck takes much longer to brake than a small car, even if they are driving at the same speed.
+
+In science, we use a formula to calculate this: **Kinetic Energy = ½ × mass × velocity²**. This shows that if you increase the mass, the total energy increases too.",,1.0,,,
+response,MS-PS4-067,2,OSS 20b,MS-PS4,applied,,,"An old analog radio antenna can hear a station even when the signal is weak or crowded.  
+The music is mixed with a lot of “static” or hiss because the radio is picking up
+other signals, electrical noise, or a weak signal that gets distorted as it travels
+through the air.
+
+**Digital radio (like DAB, HD‑Radio, or other digital‑broadcast standards) works a bit
+differently:**
+
+* **Binary data** – The station sends its sound as bits (0’s and 1’s) instead of a
+continuously varying signal.
+* **Error‑correcting codes** – The bits are encoded with extra information that lets
+the receiver detect and fix many mistakes caused by noise and interference.
+* **More efficient bandwidth** – Digital modulation lets the radio use the channel
+more efficiently, so it can deliver a cleaner picture of the music even when the
+signal isn’t perfect.
+
+Because of those features, a digital receiver will usually **lose static** and
+play a cleaner sound than an analog receiver when the signal is good.  
+If the signal is too weak, a digital radio will often just cut out the
+broadcast completely (no static, just a blank area), rather than just play
+a hissed‑out version of the music. That is actually better for many listeners, because
+you don’t hear the noise; you just hear the show or nothing at all.
+
+So, switching to a digital radio broadcast will likely **reduce or eliminate the
+static** you hear. The only caveat is that you need a digital‑compatible receiver and
+a digital station to listen to. If the station is still broadcasting only in
+analog, the new radio won’t make a difference.",,1.0,,,
+response,MS-PS4-041,1,Llama 3.1 8b,MS-PS4,applied,,,"When sunlight passes through a colored stained-glass window, only certain colors of light can pass through. This is because the colored glass acts like a filter, allowing only certain wavelengths (or colors) of light to pass through.
+
+Imagine light as a big box of crayons with all the different colors. The stained-glass window is like a special crayon box that only lets certain colors out. The colors that can pass through are the ones that match the color of the glass.
+
+The other colors of light, the ones that don't match the color of the glass, are blocked or absorbed by the glass. This means they can't pass through and reach the floor. So, when you see a colored patch of light on the floor, it's only the colors that the stained-glass window allowed through that you can see.",,1.0,,,
+response,MS-PS4-033,1,Gemma 3 27b,MS-PS4,applied,,,"Waves carry energy. How much energy a wave has depends on its amplitude.
+
+**Amplitude** is the height of a wave – how far it is from the middle to the top (or bottom). Bigger waves have a larger amplitude. 
+
+A larger amplitude means the wave has more energy. When a surfer rides a wave, they are using that energy to be propelled forward. So, a bigger wave with more energy gives the surfer a faster, more powerful ride!",,1.0,,,
+response,MS-PS4-075,3,Llama 3.3 70b,MS-PS4,conceptual,,,"In a recording studio, foam padding helps reduce echoes by absorbing sound waves. When sound waves hit a hard surface, they bounce back and create echoes. But when they hit the foam padding, they get trapped and can't bounce back. This is because the foam is soft and has lots of tiny holes that absorb the sound energy.
+
+Think of it like throwing a ball at a wall. If the wall is hard, the ball will bounce back. But if the wall is covered in soft, squishy foam, the ball will sink in and stop moving. That's kind of what's happening with sound waves and foam padding in a recording studio. By absorbing the sound waves, the foam padding helps reduce echoes and makes the sound clearer and more accurate.",,1.0,,,
+response,MS-PS4-075,2,Nemotron 3 Nano 30ba3,MS-PS4,conceptual,,,"Foam panels absorb sound. When a sound wave hits the foam, the tiny fibers vibrate and turn the sound’s energy into a tiny amount of heat. This removes some of the sound’s strength instead of letting it bounce back into the room. With less reflected sound, the room has fewer “echoes” and the direct sound (the music or speech) is clearer. The foam’s porous, soft surface is especially good at trapping the middle‑ and high‑frequency sounds that cause most echoes. So, by soaking up sound energy, the foam reduces the amount that bounces around and creates reverberation.",,1.0,,,
+response,MS-PS4-022,2,Mistral Small 3.1,MS-PS4,conceptual,,,"When you wear a dark-colored shirt on a sunny day, it absorbs more sunlight than a light-colored shirt. Absorbing sunlight means taking in the energy from the sun's rays. This energy is then turned into heat, making your shirt and your body underneath it warmer.
+
+On the other hand, a white or light-colored shirt reflects more sunlight. Reflecting sunlight means bouncing the sun's rays away. This keeps the shirt and your body cooler because less energy from the sun is being absorbed and turned into heat.
+
+Think of it like this: dark colors are like sponges that soak up water (heat), while light colors are like mirrors that bounce water (heat) away. That's why you feel hotter in a dark-colored shirt on a sunny day! The term for this process is called radiant flux.",,0.0,,,
+response,MS-PS4-008,1,Llama 3.3 70b,MS-PS4,recall,,,"When a wave is transmitted through a material, it means the wave is passing through the material without being stopped. The material allows the wave to travel through it, carrying energy from one point to another. 
+
+Think of it like ripples on a pond. If you throw a stone into the water, the ripples will travel through the water, carrying energy from the point where the stone was thrown. In this case, the water is the material, and the ripples are the waves being transmitted through it.
+
+This can happen with different types of waves, like sound waves, light waves, or water waves. The material the wave is passing through is called a medium. The medium can be a solid, liquid, or gas, and it helps the wave move from one place to another.",,1.0,,,
+response,MS-PS4-007,3,Llama 3.1 8b,MS-PS4,recall,,,"Let's talk about waves.
+
+A wave has two main parts: amplitude and wavelength. The amplitude is how high or low the wave goes up or down from its middle point. The wavelength is how far apart the middle points of the wave are.
+
+When you double the amplitude of a wave, it means the wave is now going up and down twice as high from its middle point. But, the wavelength stays the same.
+
+The energy of a wave is related to its amplitude. Think of it like a jump rope. If you swing a jump rope with a small amplitude (not high up), it doesn't have much energy. But, if you swing it with a big amplitude (high up), it has more energy.
+
+So, if you double the amplitude of a wave, its energy also doubles. The wave now has twice as much energy as it did before.",,0.0,,,
+response,MS-PS4-007,1,Gemma 4 31b,MS-PS4,recall,,,"If the amplitude of a wave is doubled, its energy increases by **four times**.
+
+Here is how it works:
+
+**Amplitude** is the distance from the middle of the wave to its highest peak. In science, the energy of a wave is not just related to the amplitude; it is proportional to the **square** of the amplitude.
+
+To figure out the energy change, you take the change in amplitude and multiply it by itself. Since the amplitude was doubled (multiplied by 2), you calculate:
+
+**2 x 2 = 4**
+
+So, doubling the height of the wave gives it four times as much energy!",,1.0,,,

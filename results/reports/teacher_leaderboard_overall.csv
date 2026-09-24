@@ -1,0 +1,10 @@
+rank,model,first_run_accuracy,ensemble_accuracy,ensemble_gain,n_questions
+1,OSS 120b,0.983,0.994,0.011,1078
+2,Nemotron 3 Nano 30ba3,0.966,0.989,0.023,1078
+3,Gemma 4 31b,0.977,0.987,0.01,1078
+4,OSS 20b,0.936,0.973,0.037,1078
+5,Mistral Small 3.1,0.906,0.952,0.046,1078
+6,Llama 3.3 70b,0.928,0.951,0.023,1078
+7,Gemma 3 27b,0.917,0.931,0.014,1078
+8,Granite 3.3 Instruct,0.828,0.878,0.05,1078
+9,Llama 3.1 8b,0.796,0.836,0.04,1078

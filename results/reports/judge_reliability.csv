@@ -1,0 +1,2 @@
+panel,n_items,n_judges,fleiss_kappa,raw_agreement,flag_rate
+ground_truth,1123,3,0.263,0.963,0.037
